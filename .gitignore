@@ -1,21 +1,13 @@
-# 忽略虚拟环境
 .venv/
 venv/
-ENV/
-
-# 忽略 Python 缓存
 __pycache__/
 *.pyc
-.pytest_cache/
-
-# 忽略 Playwright 追踪文件和结果
+chrome_user_data/
 test-results/
 playwright-report/
 blob-report/
-
-# 忽略 IDE 配置
+node_modules/
 .idea/
 .vscode/
-
-# 如果有 node_modules
-node_modules/
+*.zip
+*.pma
