@@ -1,0 +1,2707 @@
+[
+    {
+        "hz": 20,
+        "aria_valuenow": 1.301029995663981,
+        "percent": 0.0
+    },
+    {
+        "hz": 21,
+        "aria_valuenow": 1.322211504819954,
+        "percent": 0.70605
+    },
+    {
+        "hz": 22,
+        "aria_valuenow": 1.3424139363261018,
+        "percent": 1.37946
+    },
+    {
+        "hz": 23,
+        "aria_valuenow": 1.3617328099531392,
+        "percent": 2.02343
+    },
+    {
+        "hz": 24,
+        "aria_valuenow": 1.3802158855864235,
+        "percent": 2.63953
+    },
+    {
+        "hz": 25,
+        "aria_valuenow": 1.3979348030539904,
+        "percent": 3.23016
+    },
+    {
+        "hz": 26,
+        "aria_valuenow": 1.414985082126555,
+        "percent": 3.7985
+    },
+    {
+        "hz": 27,
+        "aria_valuenow": 1.431366722804117,
+        "percent": 4.34456
+    },
+    {
+        "hz": 28,
+        "aria_valuenow": 1.4471513649147125,
+        "percent": 4.87071
+    },
+    {
+        "hz": 29,
+        "aria_valuenow": 1.4623867683436986,
+        "percent": 5.37856
+    },
+    {
+        "hz": 30,
+        "aria_valuenow": 1.477120692976433,
+        "percent": 5.86969
+    },
+    {
+        "hz": 31,
+        "aria_valuenow": 1.4913531388129153,
+        "percent": 6.3441
+    },
+    {
+        "hz": 32,
+        "aria_valuenow": 1.505155745681182,
+        "percent": 6.80419
+    },
+    {
+        "hz": 33,
+        "aria_valuenow": 1.5185046336385537,
+        "percent": 7.24915
+    },
+    {
+        "hz": 34,
+        "aria_valuenow": 1.531471442513067,
+        "percent": 7.68138
+    },
+    {
+        "hz": 35,
+        "aria_valuenow": 1.544056172304722,
+        "percent": 8.10087
+    },
+    {
+        "hz": 36,
+        "aria_valuenow": 1.5563065828988754,
+        "percent": 8.50922
+    },
+    {
+        "hz": 37,
+        "aria_valuenow": 1.568198794352849,
+        "percent": 8.90563
+    },
+    {
+        "hz": 38,
+        "aria_valuenow": 1.579780566552,
+        "percent": 9.29169
+    },
+    {
+        "hz": 39,
+        "aria_valuenow": 1.591075779439007,
+        "percent": 9.66819
+    },
+    {
+        "hz": 40,
+        "aria_valuenow": 1.6020605530711913,
+        "percent": 10.0344
+    },
+    {
+        "hz": 41,
+        "aria_valuenow": 1.6127826473339104,
+        "percent": 10.3918
+    },
+    {
+        "hz": 42,
+        "aria_valuenow": 1.6232420622271644,
+        "percent": 10.7404
+    },
+    {
+        "hz": 43,
+        "aria_valuenow": 1.6334626776936316,
+        "percent": 11.0811
+    },
+    {
+        "hz": 44,
+        "aria_valuenow": 1.6434444937333121,
+        "percent": 11.4138
+    },
+    {
+        "hz": 45,
+        "aria_valuenow": 1.653211390288885,
+        "percent": 11.7394
+    },
+    {
+        "hz": 46,
+        "aria_valuenow": 1.6627633673603497,
+        "percent": 12.0578
+    },
+    {
+        "hz": 47,
+        "aria_valuenow": 1.6721004249477063,
+        "percent": 12.369
+    },
+    {
+        "hz": 48,
+        "aria_valuenow": 1.6812464429936338,
+        "percent": 12.6739
+    },
+    {
+        "hz": 49,
+        "aria_valuenow": 1.690201421498132,
+        "percent": 12.9724
+    },
+    {
+        "hz": 50,
+        "aria_valuenow": 1.6989700043360185,
+        "percent": 13.2647
+    },
+    {
+        "hz": 51,
+        "aria_valuenow": 1.707562139825519,
+        "percent": 13.5511
+    },
+    {
+        "hz": 52,
+        "aria_valuenow": 1.7159917595910867,
+        "percent": 13.8321
+    },
+    {
+        "hz": 53,
+        "aria_valuenow": 1.7242780997005824,
+        "percent": 14.1083
+    },
+    {
+        "hz": 54,
+        "aria_valuenow": 1.7323972802113272,
+        "percent": 14.3789
+    },
+    {
+        "hz": 55,
+        "aria_valuenow": 1.7403731810660004,
+        "percent": 14.6448
+    },
+    {
+        "hz": 56,
+        "aria_valuenow": 1.7481819223219228,
+        "percent": 14.9051
+    },
+    {
+        "hz": 57,
+        "aria_valuenow": 1.7558712638644518,
+        "percent": 15.1614
+    },
+    {
+        "hz": 58,
+        "aria_valuenow": 1.763417325750909,
+        "percent": 15.4129
+    },
+    {
+        "hz": 59,
+        "aria_valuenow": 1.7708439879239728,
+        "percent": 15.6605
+    },
+    {
+        "hz": 60,
+        "aria_valuenow": 1.7781512503836434,
+        "percent": 15.904
+    },
+    {
+        "hz": 61,
+        "aria_valuenow": 1.7853391131299206,
+        "percent": 16.1436
+    },
+    {
+        "hz": 62,
+        "aria_valuenow": 1.7923836962201256,
+        "percent": 16.3785
+    },
+    {
+        "hz": 63,
+        "aria_valuenow": 1.7993327595396162,
+        "percent": 16.6101
+    },
+    {
+        "hz": 64,
+        "aria_valuenow": 1.8061863030883922,
+        "percent": 16.8385
+    },
+    {
+        "hz": 65,
+        "aria_valuenow": 1.812920446923775,
+        "percent": 17.063
+    },
+    {
+        "hz": 66,
+        "aria_valuenow": 1.8195351910457642,
+        "percent": 17.2835
+    },
+    {
+        "hz": 67,
+        "aria_valuenow": 1.8260782953397174,
+        "percent": 17.5016
+    },
+    {
+        "hz": 68,
+        "aria_valuenow": 1.8325019999202774,
+        "percent": 17.7157
+    },
+    {
+        "hz": 69,
+        "aria_valuenow": 1.8388540646728015,
+        "percent": 17.9275
+    },
+    {
+        "hz": 70,
+        "aria_valuenow": 1.8450867297119322,
+        "percent": 18.1352
+    },
+    {
+        "hz": 71,
+        "aria_valuenow": 1.851247754923027,
+        "percent": 18.3406
+    },
+    {
+        "hz": 72,
+        "aria_valuenow": 1.8573371403060857,
+        "percent": 18.5436
+    },
+    {
+        "hz": 73,
+        "aria_valuenow": 1.8633310059184298,
+        "percent": 18.7434
+    },
+    {
+        "hz": 74,
+        "aria_valuenow": 1.8692293517600593,
+        "percent": 18.94
+    },
+    {
+        "hz": 75,
+        "aria_valuenow": 1.8750560577736528,
+        "percent": 19.1342
+    },
+    {
+        "hz": 76,
+        "aria_valuenow": 1.8808111239592102,
+        "percent": 19.326
+    },
+    {
+        "hz": 77,
+        "aria_valuenow": 1.8864945503167316,
+        "percent": 19.5155
+    },
+    {
+        "hz": 78,
+        "aria_valuenow": 1.8921063368462172,
+        "percent": 19.7025
+    },
+    {
+        "hz": 79,
+        "aria_valuenow": 1.8976226036049881,
+        "percent": 19.8864
+    },
+    {
+        "hz": 80,
+        "aria_valuenow": 1.9030911104784016,
+        "percent": 20.0687
+    },
+    {
+        "hz": 81,
+        "aria_valuenow": 1.9084879775237793,
+        "percent": 20.2486
+    },
+    {
+        "hz": 82,
+        "aria_valuenow": 1.9138132047411207,
+        "percent": 20.4261
+    },
+    {
+        "hz": 83,
+        "aria_valuenow": 1.9190667921304265,
+        "percent": 20.6012
+    },
+    {
+        "hz": 84,
+        "aria_valuenow": 1.9242726196343747,
+        "percent": 20.7748
+    },
+    {
+        "hz": 85,
+        "aria_valuenow": 1.9294306872529656,
+        "percent": 20.9467
+    },
+    {
+        "hz": 86,
+        "aria_valuenow": 1.934493235100842,
+        "percent": 21.1154
+    },
+    {
+        "hz": 87,
+        "aria_valuenow": 1.939508023063361,
+        "percent": 21.2826
+    },
+    {
+        "hz": 88,
+        "aria_valuenow": 1.9444750511405227,
+        "percent": 21.4482
+    },
+    {
+        "hz": 89,
+        "aria_valuenow": 1.9493943193323269,
+        "percent": 21.6121
+    },
+    {
+        "hz": 90,
+        "aria_valuenow": 1.954241947696095,
+        "percent": 21.7737
+    },
+    {
+        "hz": 91,
+        "aria_valuenow": 1.9590418161745062,
+        "percent": 21.9337
+    },
+    {
+        "hz": 92,
+        "aria_valuenow": 1.9637939247675598,
+        "percent": 22.0921
+    },
+    {
+        "hz": 93,
+        "aria_valuenow": 1.9684743935325777,
+        "percent": 22.2481
+    },
+    {
+        "hz": 94,
+        "aria_valuenow": 1.9731309823549168,
+        "percent": 22.4034
+    },
+    {
+        "hz": 95,
+        "aria_valuenow": 1.9777159313492199,
+        "percent": 22.5562
+    },
+    {
+        "hz": 96,
+        "aria_valuenow": 1.982277000400844,
+        "percent": 22.7082
+    },
+    {
+        "hz": 97,
+        "aria_valuenow": 1.9867664296244325,
+        "percent": 22.8579
+    },
+    {
+        "hz": 98,
+        "aria_valuenow": 1.9912319789053423,
+        "percent": 23.0067
+    },
+    {
+        "hz": 99,
+        "aria_valuenow": 1.995625888358216,
+        "percent": 23.1532
+    },
+    {
+        "hz": 100,
+        "aria_valuenow": 2.0,
+        "percent": 23.299
+    },
+    {
+        "hz": 101,
+        "aria_valuenow": 2.004318187493249,
+        "percent": 23.4429
+    },
+    {
+        "hz": 102,
+        "aria_valuenow": 2.0085926972327295,
+        "percent": 23.5854
+    },
+    {
+        "hz": 103,
+        "aria_valuenow": 2.012843327029531,
+        "percent": 23.7271
+    },
+    {
+        "hz": 104,
+        "aria_valuenow": 2.017022316998297,
+        "percent": 23.8664
+    },
+    {
+        "hz": 105,
+        "aria_valuenow": 2.021177427024384,
+        "percent": 24.0049
+    },
+    {
+        "hz": 106,
+        "aria_valuenow": 2.0253086571077925,
+        "percent": 24.1426
+    },
+    {
+        "hz": 107,
+        "aria_valuenow": 2.0293921273058437,
+        "percent": 24.2787
+    },
+    {
+        "hz": 108,
+        "aria_valuenow": 2.0334278376185377,
+        "percent": 24.4133
+    },
+    {
+        "hz": 109,
+        "aria_valuenow": 2.037415788045874,
+        "percent": 24.5462
+    },
+    {
+        "hz": 110,
+        "aria_valuenow": 2.0414037384732104,
+        "percent": 24.6791
+    },
+    {
+        "hz": 111,
+        "aria_valuenow": 2.045320049072511,
+        "percent": 24.8097
+    },
+    {
+        "hz": 112,
+        "aria_valuenow": 2.049212479729133,
+        "percent": 24.9394
+    },
+    {
+        "hz": 113,
+        "aria_valuenow": 2.053081030443076,
+        "percent": 25.0684
+    },
+    {
+        "hz": 114,
+        "aria_valuenow": 2.056901821271662,
+        "percent": 25.1957
+    },
+    {
+        "hz": 115,
+        "aria_valuenow": 2.0606987321575696,
+        "percent": 25.3223
+    },
+    {
+        "hz": 116,
+        "aria_valuenow": 2.0644478831581194,
+        "percent": 25.4473
+    },
+    {
+        "hz": 117,
+        "aria_valuenow": 2.0681970341586693,
+        "percent": 25.5722
+    },
+    {
+        "hz": 118,
+        "aria_valuenow": 2.071874545331183,
+        "percent": 25.6948
+    },
+    {
+        "hz": 119,
+        "aria_valuenow": 2.075552056503697,
+        "percent": 25.8174
+    },
+    {
+        "hz": 120,
+        "aria_valuenow": 2.0791818077908535,
+        "percent": 25.9384
+    },
+    {
+        "hz": 121,
+        "aria_valuenow": 2.0827876791353317,
+        "percent": 26.0586
+    },
+    {
+        "hz": 122,
+        "aria_valuenow": 2.0863696705371306,
+        "percent": 26.178
+    },
+    {
+        "hz": 123,
+        "aria_valuenow": 2.089903902053573,
+        "percent": 26.2958
+    },
+    {
+        "hz": 124,
+        "aria_valuenow": 2.093414253627336,
+        "percent": 26.4128
+    },
+    {
+        "hz": 125,
+        "aria_valuenow": 2.0969007252584206,
+        "percent": 26.529
+    },
+    {
+        "hz": 126,
+        "aria_valuenow": 2.1003633169468268,
+        "percent": 26.6444
+    },
+    {
+        "hz": 127,
+        "aria_valuenow": 2.103802028692554,
+        "percent": 26.7591
+    },
+    {
+        "hz": 128,
+        "aria_valuenow": 2.1072168604956025,
+        "percent": 26.8729
+    },
+    {
+        "hz": 129,
+        "aria_valuenow": 2.110583932413294,
+        "percent": 26.9851
+    },
+    {
+        "hz": 130,
+        "aria_valuenow": 2.113951004330985,
+        "percent": 27.0974
+    },
+    {
+        "hz": 131,
+        "aria_valuenow": 2.117270316363319,
+        "percent": 27.208
+    },
+    {
+        "hz": 132,
+        "aria_valuenow": 2.1205657484529743,
+        "percent": 27.3179
+    },
+    {
+        "hz": 133,
+        "aria_valuenow": 2.1238611805426295,
+        "percent": 27.4277
+    },
+    {
+        "hz": 134,
+        "aria_valuenow": 2.127108852746928,
+        "percent": 27.536
+    },
+    {
+        "hz": 135,
+        "aria_valuenow": 2.130332645008547,
+        "percent": 27.6434
+    },
+    {
+        "hz": 136,
+        "aria_valuenow": 2.133532557327488,
+        "percent": 27.7501
+    },
+    {
+        "hz": 137,
+        "aria_valuenow": 2.1367324696464287,
+        "percent": 27.8567
+    },
+    {
+        "hz": 138,
+        "aria_valuenow": 2.139884622080012,
+        "percent": 27.9618
+    },
+    {
+        "hz": 139,
+        "aria_valuenow": 2.1430128945709166,
+        "percent": 28.0661
+    },
+    {
+        "hz": 140,
+        "aria_valuenow": 2.1461172871191425,
+        "percent": 28.1696
+    },
+    {
+        "hz": 141,
+        "aria_valuenow": 2.1492216796673684,
+        "percent": 28.2731
+    },
+    {
+        "hz": 142,
+        "aria_valuenow": 2.152278312330237,
+        "percent": 28.3749
+    },
+    {
+        "hz": 143,
+        "aria_valuenow": 2.155334944993106,
+        "percent": 28.4768
+    },
+    {
+        "hz": 144,
+        "aria_valuenow": 2.158367697713296,
+        "percent": 28.5779
+    },
+    {
+        "hz": 145,
+        "aria_valuenow": 2.1613765704908072,
+        "percent": 28.6782
+    },
+    {
+        "hz": 146,
+        "aria_valuenow": 2.16436156332564,
+        "percent": 28.7777
+    },
+    {
+        "hz": 147,
+        "aria_valuenow": 2.167322676217794,
+        "percent": 28.8764
+    },
+    {
+        "hz": 148,
+        "aria_valuenow": 2.1702599091672696,
+        "percent": 28.9743
+    },
+    {
+        "hz": 149,
+        "aria_valuenow": 2.173197142116745,
+        "percent": 29.0722
+    },
+    {
+        "hz": 150,
+        "aria_valuenow": 2.1760866151808633,
+        "percent": 29.1686
+    },
+    {
+        "hz": 151,
+        "aria_valuenow": 2.178976088244981,
+        "percent": 29.2649
+    },
+    {
+        "hz": 152,
+        "aria_valuenow": 2.1818416813664205,
+        "percent": 29.3604
+    },
+    {
+        "hz": 153,
+        "aria_valuenow": 2.184683394545181,
+        "percent": 29.4551
+    },
+    {
+        "hz": 154,
+        "aria_valuenow": 2.187525107723942,
+        "percent": 29.5498
+    },
+    {
+        "hz": 155,
+        "aria_valuenow": 2.190342940960024,
+        "percent": 29.6438
+    },
+    {
+        "hz": 156,
+        "aria_valuenow": 2.193113014310749,
+        "percent": 29.7361
+    },
+    {
+        "hz": 157,
+        "aria_valuenow": 2.1959069676041523,
+        "percent": 29.8292
+    },
+    {
+        "hz": 158,
+        "aria_valuenow": 2.1986531610121984,
+        "percent": 29.9208
+    },
+    {
+        "hz": 159,
+        "aria_valuenow": 2.2013993544202446,
+        "percent": 30.0123
+    },
+    {
+        "hz": 160,
+        "aria_valuenow": 2.204121667885612,
+        "percent": 30.1031
+    },
+    {
+        "hz": 161,
+        "aria_valuenow": 2.206820101408301,
+        "percent": 30.193
+    },
+    {
+        "hz": 162,
+        "aria_valuenow": 2.2095185349309894,
+        "percent": 30.283
+    },
+    {
+        "hz": 163,
+        "aria_valuenow": 2.2121930885109995,
+        "percent": 30.3721
+    },
+    {
+        "hz": 164,
+        "aria_valuenow": 2.2148437621483312,
+        "percent": 30.4605
+    },
+    {
+        "hz": 165,
+        "aria_valuenow": 2.2174944357856625,
+        "percent": 30.5488
+    },
+    {
+        "hz": 166,
+        "aria_valuenow": 2.2200973495376366,
+        "percent": 30.6356
+    },
+    {
+        "hz": 167,
+        "aria_valuenow": 2.2227241432322895,
+        "percent": 30.7231
+    },
+    {
+        "hz": 168,
+        "aria_valuenow": 2.225303177041585,
+        "percent": 30.8091
+    },
+    {
+        "hz": 169,
+        "aria_valuenow": 2.2278822108508805,
+        "percent": 30.8951
+    },
+    {
+        "hz": 170,
+        "aria_valuenow": 2.2304373647174973,
+        "percent": 30.9802
+    },
+    {
+        "hz": 171,
+        "aria_valuenow": 2.232992518584114,
+        "percent": 31.0654
+    },
+    {
+        "hz": 172,
+        "aria_valuenow": 2.235523792508052,
+        "percent": 31.1498
+    },
+    {
+        "hz": 173,
+        "aria_valuenow": 2.2380550664319903,
+        "percent": 31.2342
+    },
+    {
+        "hz": 174,
+        "aria_valuenow": 2.240538580470571,
+        "percent": 31.317
+    },
+    {
+        "hz": 175,
+        "aria_valuenow": 2.2430459744518307,
+        "percent": 31.4005
+    },
+    {
+        "hz": 176,
+        "aria_valuenow": 2.2455056085477327,
+        "percent": 31.4825
+    },
+    {
+        "hz": 177,
+        "aria_valuenow": 2.247965242643635,
+        "percent": 31.5645
+    },
+    {
+        "hz": 178,
+        "aria_valuenow": 2.250424876739537,
+        "percent": 31.6465
+    },
+    {
+        "hz": 179,
+        "aria_valuenow": 2.252860630892761,
+        "percent": 31.7277
+    },
+    {
+        "hz": 180,
+        "aria_valuenow": 2.2552725051033056,
+        "percent": 31.8081
+    },
+    {
+        "hz": 181,
+        "aria_valuenow": 2.2576843793138504,
+        "percent": 31.8885
+    },
+    {
+        "hz": 182,
+        "aria_valuenow": 2.2600723735817168,
+        "percent": 31.9681
+    },
+    {
+        "hz": 183,
+        "aria_valuenow": 2.2624603678495827,
+        "percent": 32.0477
+    },
+    {
+        "hz": 184,
+        "aria_valuenow": 2.2648244821747703,
+        "percent": 32.1265
+    },
+    {
+        "hz": 185,
+        "aria_valuenow": 2.267164716557279,
+        "percent": 32.2045
+    },
+    {
+        "hz": 186,
+        "aria_valuenow": 2.2695049509397878,
+        "percent": 32.2825
+    },
+    {
+        "hz": 187,
+        "aria_valuenow": 2.271845185322297,
+        "percent": 32.3605
+    },
+    {
+        "hz": 188,
+        "aria_valuenow": 2.274161539762127,
+        "percent": 32.4377
+    },
+    {
+        "hz": 189,
+        "aria_valuenow": 2.2764540142592784,
+        "percent": 32.5141
+    },
+    {
+        "hz": 190,
+        "aria_valuenow": 2.27874648875643,
+        "percent": 32.5905
+    },
+    {
+        "hz": 191,
+        "aria_valuenow": 2.2810389632535815,
+        "percent": 32.667
+    },
+    {
+        "hz": 192,
+        "aria_valuenow": 2.2833075578080546,
+        "percent": 32.7426
+    },
+    {
+        "hz": 193,
+        "aria_valuenow": 2.2855522724198485,
+        "percent": 32.8174
+    },
+    {
+        "hz": 194,
+        "aria_valuenow": 2.287796987031643,
+        "percent": 32.8922
+    },
+    {
+        "hz": 195,
+        "aria_valuenow": 2.290041701643437,
+        "percent": 32.9671
+    },
+    {
+        "hz": 196,
+        "aria_valuenow": 2.2922625363125526,
+        "percent": 33.0411
+    },
+    {
+        "hz": 197,
+        "aria_valuenow": 2.2944594910389897,
+        "percent": 33.1143
+    },
+    {
+        "hz": 198,
+        "aria_valuenow": 2.2966564457654264,
+        "percent": 33.1875
+    },
+    {
+        "hz": 199,
+        "aria_valuenow": 2.298853400491863,
+        "percent": 33.2608
+    },
+    {
+        "hz": 200,
+        "aria_valuenow": 2.301029995663981,
+        "percent": 33.3333
+    },
+    {
+        "hz": 210,
+        "aria_valuenow": 2.3221363446035586,
+        "percent": 34.0369
+    },
+    {
+        "hz": 220,
+        "aria_valuenow": 2.342434295880421,
+        "percent": 34.7135
+    },
+    {
+        "hz": 230,
+        "aria_valuenow": 2.3617770494501373,
+        "percent": 35.3582
+    },
+    {
+        "hz": 240,
+        "aria_valuenow": 2.3801646053127063,
+        "percent": 35.9712
+    },
+    {
+        "hz": 250,
+        "aria_valuenow": 2.3978357628949163,
+        "percent": 36.5602
+    },
+    {
+        "hz": 260,
+        "aria_valuenow": 2.4150293216235528,
+        "percent": 37.1333
+    },
+    {
+        "hz": 270,
+        "aria_valuenow": 2.431267682645043,
+        "percent": 37.6746
+    },
+    {
+        "hz": 280,
+        "aria_valuenow": 2.4472672442397463,
+        "percent": 38.2079
+    },
+    {
+        "hz": 290,
+        "aria_valuenow": 2.462311608127303,
+        "percent": 38.7094
+    },
+    {
+        "hz": 300,
+        "aria_valuenow": 2.4771171725880734,
+        "percent": 39.2029
+    },
+    {
+        "hz": 310,
+        "aria_valuenow": 2.4914451381952705,
+        "percent": 39.6805
+    },
+    {
+        "hz": 320,
+        "aria_valuenow": 2.505056705522108,
+        "percent": 40.1342
+    },
+    {
+        "hz": 330,
+        "aria_valuenow": 2.5184294734221586,
+        "percent": 40.58
+    },
+    {
+        "hz": 340,
+        "aria_valuenow": 2.5315634418954223,
+        "percent": 41.0178
+    },
+    {
+        "hz": 350,
+        "aria_valuenow": 2.5439810120883264,
+        "percent": 41.4317
+    },
+    {
+        "hz": 360,
+        "aria_valuenow": 2.5563985822812305,
+        "percent": 41.8456
+    },
+    {
+        "hz": 370,
+        "aria_valuenow": 2.568099754193775,
+        "percent": 42.2357
+    },
+    {
+        "hz": 380,
+        "aria_valuenow": 2.5798009261063193,
+        "percent": 42.6257
+    },
+    {
+        "hz": 390,
+        "aria_valuenow": 2.5910244991652904,
+        "percent": 42.9998
+    },
+    {
+        "hz": 400,
+        "aria_valuenow": 2.6020092727974746,
+        "percent": 43.366
+    },
+    {
+        "hz": 410,
+        "aria_valuenow": 2.6127552470028723,
+        "percent": 43.7242
+    },
+    {
+        "hz": 420,
+        "aria_valuenow": 2.6232624217814835,
+        "percent": 44.0744
+    },
+    {
+        "hz": 430,
+        "aria_valuenow": 2.633530797133308,
+        "percent": 44.4167
+    },
+    {
+        "hz": 440,
+        "aria_valuenow": 2.643560373058346,
+        "percent": 44.751
+    },
+    {
+        "hz": 450,
+        "aria_valuenow": 2.6531123501298106,
+        "percent": 45.0694
+    },
+    {
+        "hz": 460,
+        "aria_valuenow": 2.6626643272012753,
+        "percent": 45.3878
+    },
+    {
+        "hz": 470,
+        "aria_valuenow": 2.67221630427274,
+        "percent": 45.7062
+    },
+    {
+        "hz": 480,
+        "aria_valuenow": 2.6812906824906317,
+        "percent": 46.0087
+    },
+    {
+        "hz": 490,
+        "aria_valuenow": 2.6901262612817365,
+        "percent": 46.3032
+    },
+    {
+        "hz": 500,
+        "aria_valuenow": 2.6989700043360183,
+        "percent": 46.598
+    },
+    {
+        "hz": 510,
+        "aria_valuenow": 2.70755861943716,
+        "percent": 46.8843
+    },
+    {
+        "hz": 520,
+        "aria_valuenow": 2.715916599374691,
+        "percent": 47.1629
+    },
+    {
+        "hz": 530,
+        "aria_valuenow": 2.724274579312223,
+        "percent": 47.4415
+    },
+    {
+        "hz": 540,
+        "aria_valuenow": 2.732393759822968,
+        "percent": 47.7121
+    },
+    {
+        "hz": 550,
+        "aria_valuenow": 2.7402741409069264,
+        "percent": 47.9748
+    },
+    {
+        "hz": 560,
+        "aria_valuenow": 2.7481545219908847,
+        "percent": 48.2375
+    },
+    {
+        "hz": 570,
+        "aria_valuenow": 2.7557961036480565,
+        "percent": 48.4922
+    },
+    {
+        "hz": 580,
+        "aria_valuenow": 2.7634376853052283,
+        "percent": 48.7469
+    },
+    {
+        "hz": 590,
+        "aria_valuenow": 2.7708404675356135,
+        "percent": 48.9937
+    },
+    {
+        "hz": 600,
+        "aria_valuenow": 2.7782432497659983,
+        "percent": 49.2404
+    },
+    {
+        "hz": 610,
+        "aria_valuenow": 2.7854072325695967,
+        "percent": 49.4792
+    },
+    {
+        "hz": 620,
+        "aria_valuenow": 2.792332415946409,
+        "percent": 49.7101
+    },
+    {
+        "hz": 630,
+        "aria_valuenow": 2.7992575993232207,
+        "percent": 49.9409
+    },
+    {
+        "hz": 640,
+        "aria_valuenow": 2.8061827827000325,
+        "percent": 50.1718
+    },
+    {
+        "hz": 650,
+        "aria_valuenow": 2.8128691666500583,
+        "percent": 50.3946
+    },
+    {
+        "hz": 660,
+        "aria_valuenow": 2.819555550600083,
+        "percent": 50.6175
+    },
+    {
+        "hz": 670,
+        "aria_valuenow": 2.826003135123322,
+        "percent": 50.8324
+    },
+    {
+        "hz": 680,
+        "aria_valuenow": 2.8324507196465607,
+        "percent": 51.0474
+    },
+    {
+        "hz": 690,
+        "aria_valuenow": 2.838898304169799,
+        "percent": 51.2623
+    },
+    {
+        "hz": 700,
+        "aria_valuenow": 2.8451070892662513,
+        "percent": 51.4692
+    },
+    {
+        "hz": 710,
+        "aria_valuenow": 2.8513158743627036,
+        "percent": 51.6762
+    },
+    {
+        "hz": 720,
+        "aria_valuenow": 2.857285860032369,
+        "percent": 51.8752
+    },
+    {
+        "hz": 730,
+        "aria_valuenow": 2.8632558457020343,
+        "percent": 52.0742
+    },
+    {
+        "hz": 740,
+        "aria_valuenow": 2.8692258313716996,
+        "percent": 52.2732
+    },
+    {
+        "hz": 750,
+        "aria_valuenow": 2.8749570176145784,
+        "percent": 52.4642
+    },
+    {
+        "hz": 760,
+        "aria_valuenow": 2.880927003284244,
+        "percent": 52.6632
+    },
+    {
+        "hz": 770,
+        "aria_valuenow": 2.886419390100336,
+        "percent": 52.8463
+    },
+    {
+        "hz": 780,
+        "aria_valuenow": 2.892150576343215,
+        "percent": 53.0374
+    },
+    {
+        "hz": 790,
+        "aria_valuenow": 2.8976429631593073,
+        "percent": 53.2204
+    },
+    {
+        "hz": 800,
+        "aria_valuenow": 2.9031353499753996,
+        "percent": 53.4035
+    },
+    {
+        "hz": 810,
+        "aria_valuenow": 2.9083889373647054,
+        "percent": 53.5786
+    },
+    {
+        "hz": 820,
+        "aria_valuenow": 2.9138813241807973,
+        "percent": 53.7617
+    },
+    {
+        "hz": 830,
+        "aria_valuenow": 2.9191349115701026,
+        "percent": 53.9368
+    },
+    {
+        "hz": 840,
+        "aria_valuenow": 2.9243884989594084,
+        "percent": 54.112
+    },
+    {
+        "hz": 850,
+        "aria_valuenow": 2.9294032869219278,
+        "percent": 54.2791
+    },
+    {
+        "hz": 860,
+        "aria_valuenow": 2.934418074884446,
+        "percent": 54.4463
+    },
+    {
+        "hz": 870,
+        "aria_valuenow": 2.9394328628469655,
+        "percent": 54.6134
+    },
+    {
+        "hz": 880,
+        "aria_valuenow": 2.9444476508094843,
+        "percent": 54.7806
+    },
+    {
+        "hz": 890,
+        "aria_valuenow": 2.949462438772003,
+        "percent": 54.9477
+    },
+    {
+        "hz": 900,
+        "aria_valuenow": 2.954238427307736,
+        "percent": 55.1069
+    },
+    {
+        "hz": 910,
+        "aria_valuenow": 2.959014415843468,
+        "percent": 55.2661
+    },
+    {
+        "hz": 920,
+        "aria_valuenow": 2.9637904043792007,
+        "percent": 55.4253
+    },
+    {
+        "hz": 930,
+        "aria_valuenow": 2.9685663929149326,
+        "percent": 55.5845
+    },
+    {
+        "hz": 940,
+        "aria_valuenow": 2.9731035820238785,
+        "percent": 55.7358
+    },
+    {
+        "hz": 950,
+        "aria_valuenow": 2.9776407711328243,
+        "percent": 55.887
+    },
+    {
+        "hz": 960,
+        "aria_valuenow": 2.9821779602417697,
+        "percent": 56.0383
+    },
+    {
+        "hz": 970,
+        "aria_valuenow": 2.986715149350716,
+        "percent": 56.1895
+    },
+    {
+        "hz": 980,
+        "aria_valuenow": 2.9912523384596614,
+        "percent": 56.3407
+    },
+    {
+        "hz": 990,
+        "aria_valuenow": 2.9955507281418203,
+        "percent": 56.484
+    },
+    {
+        "hz": 1000,
+        "aria_valuenow": 2.9999999999999996,
+        "percent": 56.6323
+    },
+    {
+        "hz": 1010,
+        "aria_valuenow": 3.0043863069329255,
+        "percent": 56.7785
+    },
+    {
+        "hz": 1020,
+        "aria_valuenow": 3.0086846966150844,
+        "percent": 56.9218
+    },
+    {
+        "hz": 1030,
+        "aria_valuenow": 3.012744286870457,
+        "percent": 57.0571
+    },
+    {
+        "hz": 1040,
+        "aria_valuenow": 3.017042676552616,
+        "percent": 57.2004
+    },
+    {
+        "hz": 1050,
+        "aria_valuenow": 3.021102266807989,
+        "percent": 57.3357
+    },
+    {
+        "hz": 1060,
+        "aria_valuenow": 3.025400656490148,
+        "percent": 57.479
+    },
+    {
+        "hz": 1070,
+        "aria_valuenow": 3.0294602467455203,
+        "percent": 57.6143
+    },
+    {
+        "hz": 1080,
+        "aria_valuenow": 3.0335198370008927,
+        "percent": 57.7497
+    },
+    {
+        "hz": 1090,
+        "aria_valuenow": 3.0373406278294786,
+        "percent": 57.877
+    },
+    {
+        "hz": 1100,
+        "aria_valuenow": 3.041400218084851,
+        "percent": 58.0123
+    },
+    {
+        "hz": 1110,
+        "aria_valuenow": 3.045221008913437,
+        "percent": 58.1397
+    },
+    {
+        "hz": 1120,
+        "aria_valuenow": 3.0492805991688097,
+        "percent": 58.275
+    },
+    {
+        "hz": 1130,
+        "aria_valuenow": 3.0531013899973956,
+        "percent": 58.4024
+    },
+    {
+        "hz": 1140,
+        "aria_valuenow": 3.0569221808259814,
+        "percent": 58.5297
+    },
+    {
+        "hz": 1150,
+        "aria_valuenow": 3.0607429716545673,
+        "percent": 58.6571
+    },
+    {
+        "hz": 1160,
+        "aria_valuenow": 3.064563762483153,
+        "percent": 58.7845
+    },
+    {
+        "hz": 1170,
+        "aria_valuenow": 3.068145753884952,
+        "percent": 58.9039
+    },
+    {
+        "hz": 1180,
+        "aria_valuenow": 3.071966544713538,
+        "percent": 59.0312
+    },
+    {
+        "hz": 1190,
+        "aria_valuenow": 3.0755485361153374,
+        "percent": 59.1506
+    },
+    {
+        "hz": 1200,
+        "aria_valuenow": 3.079130527517137,
+        "percent": 59.27
+    },
+    {
+        "hz": 1210,
+        "aria_valuenow": 3.082712518918936,
+        "percent": 59.3894
+    },
+    {
+        "hz": 1220,
+        "aria_valuenow": 3.0862945103207355,
+        "percent": 59.5088
+    },
+    {
+        "hz": 1230,
+        "aria_valuenow": 3.089876501722535,
+        "percent": 59.6282
+    },
+    {
+        "hz": 1240,
+        "aria_valuenow": 3.093458493124334,
+        "percent": 59.7476
+    },
+    {
+        "hz": 1250,
+        "aria_valuenow": 3.0968016850993463,
+        "percent": 59.8591
+    },
+    {
+        "hz": 1260,
+        "aria_valuenow": 3.1003836765011457,
+        "percent": 59.9785
+    },
+    {
+        "hz": 1270,
+        "aria_valuenow": 3.1037268684761585,
+        "percent": 60.0899
+    },
+    {
+        "hz": 1280,
+        "aria_valuenow": 3.107308859877958,
+        "percent": 60.2093
+    },
+    {
+        "hz": 1290,
+        "aria_valuenow": 3.1106520518529703,
+        "percent": 60.3207
+    },
+    {
+        "hz": 1300,
+        "aria_valuenow": 3.1139952438279828,
+        "percent": 60.4322
+    },
+    {
+        "hz": 1310,
+        "aria_valuenow": 3.1173384358029956,
+        "percent": 60.5436
+    },
+    {
+        "hz": 1320,
+        "aria_valuenow": 3.1206816277780085,
+        "percent": 60.6551
+    },
+    {
+        "hz": 1330,
+        "aria_valuenow": 3.1237860203262344,
+        "percent": 60.7585
+    },
+    {
+        "hz": 1340,
+        "aria_valuenow": 3.127129212301247,
+        "percent": 60.87
+    },
+    {
+        "hz": 1350,
+        "aria_valuenow": 3.130233604849473,
+        "percent": 60.9735
+    },
+    {
+        "hz": 1360,
+        "aria_valuenow": 3.1335767968244856,
+        "percent": 61.0849
+    },
+    {
+        "hz": 1370,
+        "aria_valuenow": 3.1366811893727116,
+        "percent": 61.1884
+    },
+    {
+        "hz": 1380,
+        "aria_valuenow": 3.139785581920938,
+        "percent": 61.2919
+    },
+    {
+        "hz": 1390,
+        "aria_valuenow": 3.1431287738959504,
+        "percent": 61.4033
+    },
+    {
+        "hz": 1400,
+        "aria_valuenow": 3.1462331664441763,
+        "percent": 61.5068
+    },
+    {
+        "hz": 1410,
+        "aria_valuenow": 3.1493375589924026,
+        "percent": 61.6103
+    },
+    {
+        "hz": 1420,
+        "aria_valuenow": 3.1522031521138416,
+        "percent": 61.7058
+    },
+    {
+        "hz": 1430,
+        "aria_valuenow": 3.155307544662068,
+        "percent": 61.8093
+    },
+    {
+        "hz": 1440,
+        "aria_valuenow": 3.158411937210294,
+        "percent": 61.9127
+    },
+    {
+        "hz": 1450,
+        "aria_valuenow": 3.1612775303317333,
+        "percent": 62.0083
+    },
+    {
+        "hz": 1460,
+        "aria_valuenow": 3.1643819228799597,
+        "percent": 62.1117
+    },
+    {
+        "hz": 1470,
+        "aria_valuenow": 3.1672475160013986,
+        "percent": 62.2073
+    },
+    {
+        "hz": 1480,
+        "aria_valuenow": 3.170351908549625,
+        "percent": 62.3107
+    },
+    {
+        "hz": 1490,
+        "aria_valuenow": 3.173217501671064,
+        "percent": 62.4063
+    },
+    {
+        "hz": 1500,
+        "aria_valuenow": 3.176083094792504,
+        "percent": 62.5018
+    },
+    {
+        "hz": 1510,
+        "aria_valuenow": 3.178948687913943,
+        "percent": 62.5973
+    },
+    {
+        "hz": 1520,
+        "aria_valuenow": 3.1818142810353827,
+        "percent": 62.6928
+    },
+    {
+        "hz": 1530,
+        "aria_valuenow": 3.1846798741568216,
+        "percent": 62.7883
+    },
+    {
+        "hz": 1540,
+        "aria_valuenow": 3.1875454672782615,
+        "percent": 62.8838
+    },
+    {
+        "hz": 1550,
+        "aria_valuenow": 3.1904110603997005,
+        "percent": 62.9794
+    },
+    {
+        "hz": 1560,
+        "aria_valuenow": 3.193037854094354,
+        "percent": 63.0669
+    },
+    {
+        "hz": 1570,
+        "aria_valuenow": 3.195903447215793,
+        "percent": 63.1624
+    },
+    {
+        "hz": 1580,
+        "aria_valuenow": 3.1987690403372326,
+        "percent": 63.258
+    },
+    {
+        "hz": 1590,
+        "aria_valuenow": 3.201395834031885,
+        "percent": 63.3455
+    },
+    {
+        "hz": 1600,
+        "aria_valuenow": 3.204022627726538,
+        "percent": 63.4331
+    },
+    {
+        "hz": 1610,
+        "aria_valuenow": 3.2068882208479774,
+        "percent": 63.5286
+    },
+    {
+        "hz": 1620,
+        "aria_valuenow": 3.20951501454263,
+        "percent": 63.6162
+    },
+    {
+        "hz": 1630,
+        "aria_valuenow": 3.2121418082372832,
+        "percent": 63.7037
+    },
+    {
+        "hz": 1640,
+        "aria_valuenow": 3.2147686019319357,
+        "percent": 63.7913
+    },
+    {
+        "hz": 1650,
+        "aria_valuenow": 3.2173953956265886,
+        "percent": 63.8788
+    },
+    {
+        "hz": 1660,
+        "aria_valuenow": 3.2200221893212415,
+        "percent": 63.9664
+    },
+    {
+        "hz": 1670,
+        "aria_valuenow": 3.222648983015894,
+        "percent": 64.054
+    },
+    {
+        "hz": 1680,
+        "aria_valuenow": 3.225275776710547,
+        "percent": 64.1415
+    },
+    {
+        "hz": 1690,
+        "aria_valuenow": 3.2279025704052,
+        "percent": 64.2291
+    },
+    {
+        "hz": 1700,
+        "aria_valuenow": 3.2305293640998523,
+        "percent": 64.3166
+    },
+    {
+        "hz": 1710,
+        "aria_valuenow": 3.2329173583677187,
+        "percent": 64.3962
+    },
+    {
+        "hz": 1720,
+        "aria_valuenow": 3.2355441520623716,
+        "percent": 64.4838
+    },
+    {
+        "hz": 1730,
+        "aria_valuenow": 3.2379321463302375,
+        "percent": 64.5634
+    },
+    {
+        "hz": 1740,
+        "aria_valuenow": 3.2405589400248904,
+        "percent": 64.651
+    },
+    {
+        "hz": 1750,
+        "aria_valuenow": 3.242946934292757,
+        "percent": 64.7306
+    },
+    {
+        "hz": 1760,
+        "aria_valuenow": 3.2455737279874093,
+        "percent": 64.8181
+    },
+    {
+        "hz": 1770,
+        "aria_valuenow": 3.2479617222552757,
+        "percent": 64.8977
+    },
+    {
+        "hz": 1780,
+        "aria_valuenow": 3.250349716523142,
+        "percent": 64.9773
+    },
+    {
+        "hz": 1790,
+        "aria_valuenow": 3.252737710791008,
+        "percent": 65.0569
+    },
+    {
+        "hz": 1800,
+        "aria_valuenow": 3.2553645044856605,
+        "percent": 65.1445
+    },
+    {
+        "hz": 1810,
+        "aria_valuenow": 3.257752498753527,
+        "percent": 65.2241
+    },
+    {
+        "hz": 1820,
+        "aria_valuenow": 3.2601404930213933,
+        "percent": 65.3037
+    },
+    {
+        "hz": 1830,
+        "aria_valuenow": 3.2625284872892593,
+        "percent": 65.3833
+    },
+    {
+        "hz": 1840,
+        "aria_valuenow": 3.264916481557125,
+        "percent": 65.4629
+    },
+    {
+        "hz": 1850,
+        "aria_valuenow": 3.2670656763982047,
+        "percent": 65.5345
+    },
+    {
+        "hz": 1860,
+        "aria_valuenow": 3.269453670666071,
+        "percent": 65.6141
+    },
+    {
+        "hz": 1870,
+        "aria_valuenow": 3.2718416649339375,
+        "percent": 65.6937
+    },
+    {
+        "hz": 1880,
+        "aria_valuenow": 3.2742296592018034,
+        "percent": 65.7733
+    },
+    {
+        "hz": 1890,
+        "aria_valuenow": 3.276378854042883,
+        "percent": 65.845
+    },
+    {
+        "hz": 1900,
+        "aria_valuenow": 3.2787668483107493,
+        "percent": 65.9246
+    },
+    {
+        "hz": 1910,
+        "aria_valuenow": 3.2809160431518287,
+        "percent": 65.9962
+    },
+    {
+        "hz": 1920,
+        "aria_valuenow": 3.283304037419695,
+        "percent": 66.0758
+    },
+    {
+        "hz": 1930,
+        "aria_valuenow": 3.2854532322607746,
+        "percent": 66.1474
+    },
+    {
+        "hz": 1940,
+        "aria_valuenow": 3.2878412265286405,
+        "percent": 66.227
+    },
+    {
+        "hz": 1950,
+        "aria_valuenow": 3.28999042136972,
+        "percent": 66.2987
+    },
+    {
+        "hz": 1960,
+        "aria_valuenow": 3.2921396162108,
+        "percent": 66.3703
+    },
+    {
+        "hz": 1970,
+        "aria_valuenow": 3.2945276104786663,
+        "percent": 66.4499
+    },
+    {
+        "hz": 1980,
+        "aria_valuenow": 3.2966768053197457,
+        "percent": 66.5216
+    },
+    {
+        "hz": 1990,
+        "aria_valuenow": 3.298826000160825,
+        "percent": 66.5932
+    },
+    {
+        "hz": 2000,
+        "aria_valuenow": 3.301029995663981,
+        "percent": 66.6667
+    },
+    {
+        "hz": 2100,
+        "aria_valuenow": 3.3212731462787666,
+        "percent": 67.3414
+    },
+    {
+        "hz": 2200,
+        "aria_valuenow": 3.342765094689563,
+        "percent": 68.0578
+    },
+    {
+        "hz": 2300,
+        "aria_valuenow": 3.3618690488324923,
+        "percent": 68.6946
+    },
+    {
+        "hz": 2400,
+        "aria_valuenow": 3.3809730029754217,
+        "percent": 69.3314
+    },
+    {
+        "hz": 2500,
+        "aria_valuenow": 3.3976889628504843,
+        "percent": 69.8886
+    },
+    {
+        "hz": 2600,
+        "aria_valuenow": 3.4144049227255477,
+        "percent": 70.4458
+    },
+    {
+        "hz": 2700,
+        "aria_valuenow": 3.431120882600611,
+        "percent": 71.003
+    },
+    {
+        "hz": 2800,
+        "aria_valuenow": 3.4478368424756747,
+        "percent": 71.5602
+    },
+    {
+        "hz": 2900,
+        "aria_valuenow": 3.4621648080828713,
+        "percent": 72.0378
+    },
+    {
+        "hz": 3000,
+        "aria_valuenow": 3.476492773690069,
+        "percent": 72.5154
+    },
+    {
+        "hz": 3100,
+        "aria_valuenow": 3.4908207392972654,
+        "percent": 72.993
+    },
+    {
+        "hz": 3200,
+        "aria_valuenow": 3.505148704904463,
+        "percent": 73.4706
+    },
+    {
+        "hz": 3300,
+        "aria_valuenow": 3.5194766705116596,
+        "percent": 73.9482
+    },
+    {
+        "hz": 3400,
+        "aria_valuenow": 3.5314166418509902,
+        "percent": 74.3462
+    },
+    {
+        "hz": 3500,
+        "aria_valuenow": 3.543356613190322,
+        "percent": 74.7442
+    },
+    {
+        "hz": 3600,
+        "aria_valuenow": 3.5552965845296525,
+        "percent": 75.1422
+    },
+    {
+        "hz": 3700,
+        "aria_valuenow": 3.567236555868983,
+        "percent": 75.5402
+    },
+    {
+        "hz": 3800,
+        "aria_valuenow": 3.579176527208314,
+        "percent": 75.9382
+    },
+    {
+        "hz": 3900,
+        "aria_valuenow": 3.5911164985476454,
+        "percent": 76.3362
+    },
+    {
+        "hz": 4000,
+        "aria_valuenow": 3.603056469886976,
+        "percent": 76.7342
+    },
+    {
+        "hz": 4100,
+        "aria_valuenow": 3.6126084469584407,
+        "percent": 77.0526
+    },
+    {
+        "hz": 4200,
+        "aria_valuenow": 3.6221604240299055,
+        "percent": 77.371
+    },
+    {
+        "hz": 4300,
+        "aria_valuenow": 3.634100395369236,
+        "percent": 77.769
+    },
+    {
+        "hz": 4400,
+        "aria_valuenow": 3.643652372440701,
+        "percent": 78.0874
+    },
+    {
+        "hz": 4500,
+        "aria_valuenow": 3.6532043495121655,
+        "percent": 78.4058
+    },
+    {
+        "hz": 4600,
+        "aria_valuenow": 3.6627563265836303,
+        "percent": 78.7242
+    },
+    {
+        "hz": 4700,
+        "aria_valuenow": 3.672308303655095,
+        "percent": 79.0426
+    },
+    {
+        "hz": 4800,
+        "aria_valuenow": 3.6818602807265597,
+        "percent": 79.361
+    },
+    {
+        "hz": 4900,
+        "aria_valuenow": 3.6890242635301584,
+        "percent": 79.5998
+    },
+    {
+        "hz": 5000,
+        "aria_valuenow": 3.6989700043360187,
+        "percent": 79.9313
+    },
+    {
+        "hz": 5100,
+        "aria_valuenow": 3.708128217673088,
+        "percent": 80.2366
+    },
+    {
+        "hz": 5200,
+        "aria_valuenow": 3.7152922004766866,
+        "percent": 80.4754
+    },
+    {
+        "hz": 5300,
+        "aria_valuenow": 3.7248441775481513,
+        "percent": 80.7938
+    },
+    {
+        "hz": 5400,
+        "aria_valuenow": 3.732008160351749,
+        "percent": 81.0326
+    },
+    {
+        "hz": 5500,
+        "aria_valuenow": 3.739172143155348,
+        "percent": 81.2714
+    },
+    {
+        "hz": 5600,
+        "aria_valuenow": 3.7487241202268127,
+        "percent": 81.5898
+    },
+    {
+        "hz": 5700,
+        "aria_valuenow": 3.7558881030304114,
+        "percent": 81.8286
+    },
+    {
+        "hz": 5800,
+        "aria_valuenow": 3.7630520858340093,
+        "percent": 82.0674
+    },
+    {
+        "hz": 5900,
+        "aria_valuenow": 3.770216068637608,
+        "percent": 82.3062
+    },
+    {
+        "hz": 6000,
+        "aria_valuenow": 3.777380051441207,
+        "percent": 82.545
+    },
+    {
+        "hz": 6100,
+        "aria_valuenow": 3.7845440342448056,
+        "percent": 82.7838
+    },
+    {
+        "hz": 6200,
+        "aria_valuenow": 3.7917080170484034,
+        "percent": 83.0226
+    },
+    {
+        "hz": 6300,
+        "aria_valuenow": 3.798871999852002,
+        "percent": 83.2614
+    },
+    {
+        "hz": 6400,
+        "aria_valuenow": 3.806035982655601,
+        "percent": 83.5002
+    },
+    {
+        "hz": 6500,
+        "aria_valuenow": 3.8131999654591997,
+        "percent": 83.739
+    },
+    {
+        "hz": 6600,
+        "aria_valuenow": 3.8203639482627976,
+        "percent": 83.9778
+    },
+    {
+        "hz": 6700,
+        "aria_valuenow": 3.8251399367985304,
+        "percent": 84.137
+    },
+    {
+        "hz": 6800,
+        "aria_valuenow": 3.832303919602129,
+        "percent": 84.3758
+    },
+    {
+        "hz": 6900,
+        "aria_valuenow": 3.839467902405727,
+        "percent": 84.6146
+    },
+    {
+        "hz": 7000,
+        "aria_valuenow": 3.84424389094146,
+        "percent": 84.7738
+    },
+    {
+        "hz": 7100,
+        "aria_valuenow": 3.8514078737450586,
+        "percent": 85.0126
+    },
+    {
+        "hz": 7200,
+        "aria_valuenow": 3.8561838622807905,
+        "percent": 85.1718
+    },
+    {
+        "hz": 7300,
+        "aria_valuenow": 3.863347845084389,
+        "percent": 85.4106
+    },
+    {
+        "hz": 7400,
+        "aria_valuenow": 3.868123833620121,
+        "percent": 85.5698
+    },
+    {
+        "hz": 7500,
+        "aria_valuenow": 3.87528781642372,
+        "percent": 85.8086
+    },
+    {
+        "hz": 7600,
+        "aria_valuenow": 3.8800638049594527,
+        "percent": 85.9678
+    },
+    {
+        "hz": 7700,
+        "aria_valuenow": 3.8872277877630506,
+        "percent": 86.2066
+    },
+    {
+        "hz": 7800,
+        "aria_valuenow": 3.8920037762987834,
+        "percent": 86.3658
+    },
+    {
+        "hz": 7900,
+        "aria_valuenow": 3.8967797648345153,
+        "percent": 86.525
+    },
+    {
+        "hz": 8000,
+        "aria_valuenow": 3.903943747638114,
+        "percent": 86.7638
+    },
+    {
+        "hz": 8100,
+        "aria_valuenow": 3.908719736173847,
+        "percent": 86.923
+    },
+    {
+        "hz": 8200,
+        "aria_valuenow": 3.9134957247095787,
+        "percent": 87.0822
+    },
+    {
+        "hz": 8300,
+        "aria_valuenow": 3.9182717132453115,
+        "percent": 87.2414
+    },
+    {
+        "hz": 8400,
+        "aria_valuenow": 3.9254356960489094,
+        "percent": 87.4802
+    },
+    {
+        "hz": 8500,
+        "aria_valuenow": 3.930211684584642,
+        "percent": 87.6394
+    },
+    {
+        "hz": 8600,
+        "aria_valuenow": 3.934987673120374,
+        "percent": 87.7986
+    },
+    {
+        "hz": 8700,
+        "aria_valuenow": 3.939763661656107,
+        "percent": 87.9578
+    },
+    {
+        "hz": 8800,
+        "aria_valuenow": 3.944539650191839,
+        "percent": 88.117
+    },
+    {
+        "hz": 8900,
+        "aria_valuenow": 3.9493156387275716,
+        "percent": 88.2762
+    },
+    {
+        "hz": 9000,
+        "aria_valuenow": 3.9540916272633035,
+        "percent": 88.4354
+    },
+    {
+        "hz": 9100,
+        "aria_valuenow": 3.9588676157990363,
+        "percent": 88.5946
+    },
+    {
+        "hz": 9200,
+        "aria_valuenow": 3.9636436043347683,
+        "percent": 88.7538
+    },
+    {
+        "hz": 9300,
+        "aria_valuenow": 3.968419592870501,
+        "percent": 88.913
+    },
+    {
+        "hz": 9400,
+        "aria_valuenow": 3.973195581406233,
+        "percent": 89.0722
+    },
+    {
+        "hz": 9500,
+        "aria_valuenow": 3.9779715699419658,
+        "percent": 89.2314
+    },
+    {
+        "hz": 9600,
+        "aria_valuenow": 3.9827475584776977,
+        "percent": 89.3906
+    },
+    {
+        "hz": 9700,
+        "aria_valuenow": 3.9875235470134305,
+        "percent": 89.5498
+    },
+    {
+        "hz": 9800,
+        "aria_valuenow": 3.9922995355491624,
+        "percent": 89.709
+    },
+    {
+        "hz": 9900,
+        "aria_valuenow": 3.9946875298170292,
+        "percent": 89.7886
+    },
+    {
+        "hz": 10000,
+        "aria_valuenow": 4.0,
+        "percent": 89.9657
+    },
+    {
+        "hz": 10100,
+        "aria_valuenow": 4.004239506888494,
+        "percent": 90.107
+    },
+    {
+        "hz": 10200,
+        "aria_valuenow": 4.009015495424226,
+        "percent": 90.2662
+    },
+    {
+        "hz": 10300,
+        "aria_valuenow": 4.013791483959959,
+        "percent": 90.4254
+    },
+    {
+        "hz": 10400,
+        "aria_valuenow": 4.016179478227825,
+        "percent": 90.505
+    },
+    {
+        "hz": 10500,
+        "aria_valuenow": 4.0209554667635565,
+        "percent": 90.6642
+    },
+    {
+        "hz": 10600,
+        "aria_valuenow": 4.025731455299289,
+        "percent": 90.8234
+    },
+    {
+        "hz": 10700,
+        "aria_valuenow": 4.030507443835021,
+        "percent": 90.9826
+    },
+    {
+        "hz": 10800,
+        "aria_valuenow": 4.032895438102888,
+        "percent": 91.0622
+    },
+    {
+        "hz": 10900,
+        "aria_valuenow": 4.03767142663862,
+        "percent": 91.2214
+    },
+    {
+        "hz": 11000,
+        "aria_valuenow": 4.042447415174353,
+        "percent": 91.3806
+    },
+    {
+        "hz": 11100,
+        "aria_valuenow": 4.044835409442219,
+        "percent": 91.4602
+    },
+    {
+        "hz": 11200,
+        "aria_valuenow": 4.049611397977951,
+        "percent": 91.6194
+    },
+    {
+        "hz": 11300,
+        "aria_valuenow": 4.0519993922458175,
+        "percent": 91.699
+    },
+    {
+        "hz": 11400,
+        "aria_valuenow": 4.056775380781549,
+        "percent": 91.8582
+    },
+    {
+        "hz": 11500,
+        "aria_valuenow": 4.061551369317282,
+        "percent": 92.0174
+    },
+    {
+        "hz": 11600,
+        "aria_valuenow": 4.063939363585148,
+        "percent": 92.097
+    },
+    {
+        "hz": 11700,
+        "aria_valuenow": 4.06871535212088,
+        "percent": 92.2562
+    },
+    {
+        "hz": 11800,
+        "aria_valuenow": 4.071103346388747,
+        "percent": 92.3358
+    },
+    {
+        "hz": 11900,
+        "aria_valuenow": 4.075879334924479,
+        "percent": 92.495
+    },
+    {
+        "hz": 12000,
+        "aria_valuenow": 4.078267329192345,
+        "percent": 92.5746
+    },
+    {
+        "hz": 12100,
+        "aria_valuenow": 4.083043317728078,
+        "percent": 92.7338
+    },
+    {
+        "hz": 12200,
+        "aria_valuenow": 4.085431311995944,
+        "percent": 92.8134
+    },
+    {
+        "hz": 12300,
+        "aria_valuenow": 4.090207300531676,
+        "percent": 92.9726
+    },
+    {
+        "hz": 12400,
+        "aria_valuenow": 4.092595294799542,
+        "percent": 93.0522
+    },
+    {
+        "hz": 12500,
+        "aria_valuenow": 4.097371283335274,
+        "percent": 93.2114
+    },
+    {
+        "hz": 12600,
+        "aria_valuenow": 4.099759277603141,
+        "percent": 93.291
+    },
+    {
+        "hz": 12700,
+        "aria_valuenow": 4.104535266138873,
+        "percent": 93.4502
+    },
+    {
+        "hz": 12800,
+        "aria_valuenow": 4.106923260406739,
+        "percent": 93.5298
+    },
+    {
+        "hz": 12900,
+        "aria_valuenow": 4.111699248942472,
+        "percent": 93.689
+    },
+    {
+        "hz": 13000,
+        "aria_valuenow": 4.114087243210338,
+        "percent": 93.7686
+    },
+    {
+        "hz": 13100,
+        "aria_valuenow": 4.116475237478204,
+        "percent": 93.8482
+    },
+    {
+        "hz": 13200,
+        "aria_valuenow": 4.1212512260139365,
+        "percent": 94.0074
+    },
+    {
+        "hz": 13300,
+        "aria_valuenow": 4.123639220281802,
+        "percent": 94.087
+    },
+    {
+        "hz": 13400,
+        "aria_valuenow": 4.126027214549668,
+        "percent": 94.1666
+    },
+    {
+        "hz": 13500,
+        "aria_valuenow": 4.130803203085401,
+        "percent": 94.3258
+    },
+    {
+        "hz": 13600,
+        "aria_valuenow": 4.133191197353267,
+        "percent": 94.4054
+    },
+    {
+        "hz": 13700,
+        "aria_valuenow": 4.135579191621133,
+        "percent": 94.485
+    },
+    {
+        "hz": 13800,
+        "aria_valuenow": 4.140355180156866,
+        "percent": 94.6442
+    },
+    {
+        "hz": 13900,
+        "aria_valuenow": 4.142743174424732,
+        "percent": 94.7238
+    },
+    {
+        "hz": 14000,
+        "aria_valuenow": 4.145131168692598,
+        "percent": 94.8034
+    },
+    {
+        "hz": 14100,
+        "aria_valuenow": 4.149907157228331,
+        "percent": 94.9626
+    },
+    {
+        "hz": 14200,
+        "aria_valuenow": 4.1522951514961965,
+        "percent": 95.0422
+    },
+    {
+        "hz": 14300,
+        "aria_valuenow": 4.1546831457640625,
+        "percent": 95.1218
+    },
+    {
+        "hz": 14400,
+        "aria_valuenow": 4.159459134299795,
+        "percent": 95.281
+    },
+    {
+        "hz": 14500,
+        "aria_valuenow": 4.161847128567661,
+        "percent": 95.3606
+    },
+    {
+        "hz": 14600,
+        "aria_valuenow": 4.164235122835527,
+        "percent": 95.4402
+    },
+    {
+        "hz": 14700,
+        "aria_valuenow": 4.166623117103394,
+        "percent": 95.5198
+    },
+    {
+        "hz": 14800,
+        "aria_valuenow": 4.171399105639126,
+        "percent": 95.679
+    },
+    {
+        "hz": 14900,
+        "aria_valuenow": 4.173787099906992,
+        "percent": 95.7586
+    },
+    {
+        "hz": 15000,
+        "aria_valuenow": 4.176175094174859,
+        "percent": 95.8382
+    },
+    {
+        "hz": 15100,
+        "aria_valuenow": 4.178563088442725,
+        "percent": 95.9178
+    },
+    {
+        "hz": 15200,
+        "aria_valuenow": 4.180951082710591,
+        "percent": 95.9974
+    },
+    {
+        "hz": 15300,
+        "aria_valuenow": 4.1857270712463235,
+        "percent": 96.1566
+    },
+    {
+        "hz": 15400,
+        "aria_valuenow": 4.188115065514189,
+        "percent": 96.2362
+    },
+    {
+        "hz": 15500,
+        "aria_valuenow": 4.190503059782055,
+        "percent": 96.3158
+    },
+    {
+        "hz": 15600,
+        "aria_valuenow": 4.192891054049921,
+        "percent": 96.3954
+    },
+    {
+        "hz": 15700,
+        "aria_valuenow": 4.195279048317788,
+        "percent": 96.475
+    },
+    {
+        "hz": 15800,
+        "aria_valuenow": 4.197667042585654,
+        "percent": 96.5546
+    },
+    {
+        "hz": 15900,
+        "aria_valuenow": 4.202443031121386,
+        "percent": 96.7138
+    },
+    {
+        "hz": 16000,
+        "aria_valuenow": 4.204831025389253,
+        "percent": 96.7934
+    },
+    {
+        "hz": 16100,
+        "aria_valuenow": 4.207219019657119,
+        "percent": 96.873
+    },
+    {
+        "hz": 16200,
+        "aria_valuenow": 4.209607013924985,
+        "percent": 96.9526
+    },
+    {
+        "hz": 16300,
+        "aria_valuenow": 4.211995008192851,
+        "percent": 97.0322
+    },
+    {
+        "hz": 16400,
+        "aria_valuenow": 4.214383002460718,
+        "percent": 97.1118
+    },
+    {
+        "hz": 16500,
+        "aria_valuenow": 4.216770996728584,
+        "percent": 97.1914
+    },
+    {
+        "hz": 16600,
+        "aria_valuenow": 4.2191589909964495,
+        "percent": 97.271
+    },
+    {
+        "hz": 16700,
+        "aria_valuenow": 4.2215469852643155,
+        "percent": 97.3506
+    },
+    {
+        "hz": 16800,
+        "aria_valuenow": 4.226322973800048,
+        "percent": 97.5098
+    },
+    {
+        "hz": 16900,
+        "aria_valuenow": 4.228710968067914,
+        "percent": 97.5894
+    },
+    {
+        "hz": 17000,
+        "aria_valuenow": 4.23109896233578,
+        "percent": 97.669
+    },
+    {
+        "hz": 17100,
+        "aria_valuenow": 4.233486956603647,
+        "percent": 97.7486
+    },
+    {
+        "hz": 17200,
+        "aria_valuenow": 4.235874950871513,
+        "percent": 97.8282
+    },
+    {
+        "hz": 17300,
+        "aria_valuenow": 4.238262945139379,
+        "percent": 97.9078
+    },
+    {
+        "hz": 17400,
+        "aria_valuenow": 4.240650939407245,
+        "percent": 97.9874
+    },
+    {
+        "hz": 17500,
+        "aria_valuenow": 4.243038933675112,
+        "percent": 98.067
+    },
+    {
+        "hz": 17600,
+        "aria_valuenow": 4.245426927942978,
+        "percent": 98.1466
+    },
+    {
+        "hz": 17700,
+        "aria_valuenow": 4.247814922210844,
+        "percent": 98.2262
+    },
+    {
+        "hz": 17800,
+        "aria_valuenow": 4.25020291647871,
+        "percent": 98.3058
+    },
+    {
+        "hz": 17900,
+        "aria_valuenow": 4.2525909107465765,
+        "percent": 98.3854
+    },
+    {
+        "hz": 18000,
+        "aria_valuenow": 4.254978905014442,
+        "percent": 98.465
+    },
+    {
+        "hz": 18100,
+        "aria_valuenow": 4.257366899282308,
+        "percent": 98.5446
+    },
+    {
+        "hz": 18200,
+        "aria_valuenow": 4.259754893550174,
+        "percent": 98.6242
+    },
+    {
+        "hz": 18300,
+        "aria_valuenow": 4.262142887818041,
+        "percent": 98.7038
+    },
+    {
+        "hz": 18400,
+        "aria_valuenow": 4.264530882085907,
+        "percent": 98.7834
+    },
+    {
+        "hz": 18500,
+        "aria_valuenow": 4.266918876353773,
+        "percent": 98.863
+    },
+    {
+        "hz": 18600,
+        "aria_valuenow": 4.269306870621639,
+        "percent": 98.9426
+    },
+    {
+        "hz": 18700,
+        "aria_valuenow": 4.271694864889506,
+        "percent": 99.0222
+    },
+    {
+        "hz": 18800,
+        "aria_valuenow": 4.274082859157372,
+        "percent": 99.1018
+    },
+    {
+        "hz": 18900,
+        "aria_valuenow": 4.276470853425238,
+        "percent": 99.1814
+    },
+    {
+        "hz": 19000,
+        "aria_valuenow": 4.278858847693104,
+        "percent": 99.261
+    },
+    {
+        "hz": 19100,
+        "aria_valuenow": 4.281246841960971,
+        "percent": 99.3406
+    },
+    {
+        "hz": 19200,
+        "aria_valuenow": 4.283634836228837,
+        "percent": 99.4202
+    },
+    {
+        "hz": 19300,
+        "aria_valuenow": 4.2860228304967025,
+        "percent": 99.4998
+    },
+    {
+        "hz": 19400,
+        "aria_valuenow": 4.2884108247645685,
+        "percent": 99.5794
+    },
+    {
+        "hz": 19500,
+        "aria_valuenow": 4.290798819032435,
+        "percent": 99.659
+    },
+    {
+        "hz": 19600,
+        "aria_valuenow": 4.293186813300301,
+        "percent": 99.7386
+    },
+    {
+        "hz": 19700,
+        "aria_valuenow": 4.295574807568167,
+        "percent": 99.8182
+    },
+    {
+        "hz": 19800,
+        "aria_valuenow": 4.295574807568167,
+        "percent": 99.8182
+    },
+    {
+        "hz": 19900,
+        "aria_valuenow": 4.297962801836033,
+        "percent": 99.8978
+    },
+    {
+        "hz": 20000,
+        "aria_valuenow": 4.30102999566398,
+        "percent": 100.0
+    }
+]

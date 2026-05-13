@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+chrome_user_data/
+test-results/
+playwright-report/
+blob-report/
+node_modules/
+.idea/
+.vscode/
+*.zip
+*.pma

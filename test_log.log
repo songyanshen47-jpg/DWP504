@@ -1,0 +1,133 @@
+2026-05-12 09:36:26,974 [INFO] 正在初始化测试环境...
+2026-05-12 09:36:34,654 [WARNING] 🚨 映射表缺失边界值: -80.0dB
+2026-05-12 09:36:34,656 [INFO] 
+############################################################
+# 开始精准度校验任务
+############################################################
+2026-05-12 09:36:34,657 [ERROR] 跳过目标 -80.0: 不在映射表中
+2026-05-12 09:36:34,657 [INFO] Target: -80.0dB | Time:    0ms | Result: ❌ FAIL
+2026-05-12 09:36:34,746 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-80.0db_1778549794.png
+2026-05-12 09:36:34,751 [ERROR] 操作异常 -72.5dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,752 [INFO] Target: -72.5dB | Time:    5ms | Result: ❌ FAIL
+2026-05-12 09:36:34,782 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-72.5db_1778549794.png
+2026-05-12 09:36:34,785 [ERROR] 操作异常 -60.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,786 [INFO] Target: -60.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,813 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-60.0db_1778549794.png
+2026-05-12 09:36:34,816 [ERROR] 操作异常 -48.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,817 [INFO] Target: -48.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,847 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-48.0db_1778549794.png
+2026-05-12 09:36:34,849 [ERROR] 操作异常 -36.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,850 [INFO] Target: -36.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,879 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-36.0db_1778549794.png
+2026-05-12 09:36:34,882 [ERROR] 操作异常 -24.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,883 [INFO] Target: -24.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,911 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-24.0db_1778549794.png
+2026-05-12 09:36:34,914 [ERROR] 操作异常 -12.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,915 [INFO] Target: -12.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,947 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-12.0db_1778549794.png
+2026-05-12 09:36:34,950 [ERROR] 操作异常 -6.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,951 [INFO] Target:  -6.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:34,982 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-6.0db_1778549794.png
+2026-05-12 09:36:34,987 [ERROR] 操作异常 -3.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:34,988 [INFO] Target:  -3.0dB | Time:    5ms | Result: ❌ FAIL
+2026-05-12 09:36:35,029 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-3.0db_1778549794.png
+2026-05-12 09:36:35,031 [ERROR] 操作异常 -1.5dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:35,032 [INFO] Target:  -1.5dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:35,063 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_-1.5db_1778549795.png
+2026-05-12 09:36:35,066 [ERROR] 操作异常 0.0dB: Locator.bounding_box: SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail' is not a valid XPath expression.
+    at Object.queryAll (<anonymous>:5935:25)
+    at InjectedScript._queryEngineAll (<anonymous>:6645:49)
+    at InjectedScript.querySelectorAll (<anonymous>:6632:30)
+    at eval (eval at evaluate (:302:30), <anonymous>:4:35)
+    at UtilityScript.evaluate (<anonymous>:304:16)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+Call log:
+  - waiting for locator("//div[contains(@class, 'Card-module_Card')][descendant::span[text()='OUTPUT 1']] .ant-slider-rail")
+
+2026-05-12 09:36:35,067 [INFO] Target:   0.0dB | Time:    3ms | Result: ❌ FAIL
+2026-05-12 09:36:35,095 [ERROR]    [取证] 错误状态已保存至: test_evidence/fail_0.0db_1778549795.png
+2026-05-12 09:36:35,095 [INFO] 
+============================================================
+总结: 0/11 通过 | 成功率: 0.0%
+============================================================

@@ -1,0 +1,463 @@
+import sys
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+import time
+import json
+import os
+import re
+from datetime import datetime
+import requests
+
+# ==================== 核心配置 ====================
+CONFIG_DIR = r"d:\tonwel\21087\Desktop\工作\.net\dwp"
+ORIGINAL_FILE = os.path.join(CONFIG_DIR, "1.pegall")
+BASE_URL = "http://192.168.66.123/#/Home"
+AFTER_RESTORE_WAIT = 8
+PAGE_WAIT = 1.5
+
+# 确保目录存在
+os.makedirs(CONFIG_DIR, exist_ok=True)
+
+# ==================== Chrome 配置 ====================
+def get_chrome_options():
+    opt = Options()
+    opt.add_argument("--start-maximized")
+    opt.add_argument("--disable-web-security")
+    opt.add_argument("--disable-features=InsecureDownloadWarnings")
+    opt.add_argument("--safebrowsing-disable-download-protection")
+    opt.add_argument("--disable-popup-blocking")
+    opt.add_argument("--allow-running-insecure-content")
+    opt.add_experimental_option("excludeSwitches", ["enable-automation", "enable-logging"])
+    opt.add_experimental_option("useAutomationExtension", False)
+    
+    prefs = {
+        "download.default_directory": CONFIG_DIR,
+        "download.prompt_for_download": False,
+        "download.directory_upgrade": True,
+        "safebrowsing.enabled": False,
+        "safebrowsing.disable_download_protection": True,
+        "profile.default_content_setting_values.automatic_downloads": 1,
+    }
+    opt.add_experimental_option("prefs", prefs)
+    return opt
+
+# ==================== 获取 Cookie 和 Session ====================
+def get_cookies_and_session(driver):
+    """从浏览器获取 cookies 并创建 requests session"""
+    session = requests.Session()
+    
+    # 从 driver 获取所有 cookies
+    cookies = driver.get_cookies()
+    for cookie in cookies:
+        session.cookies.set(cookie['name'], cookie['value'])
+    
+    # 添加必要的 headers
+    session.headers.update({
+        'User-Agent': driver.execute_script("return navigator.userAgent"),
+        'Accept': 'application/json, text/plain, */*',
+        'Referer': BASE_URL,
+    })
+    
+    return session
+
+# ==================== 通过 HTTP 下载配置（绕过浏览器拦截） ====================
+def download_via_http(driver, session, save_path):
+    """通过 HTTP 请求直接下载配置文件"""
+    print("▶ 尝试获取下载链接...")
+    
+    # 方法1：从 Backup&Restore 页面获取 API 端点
+    possible_urls = [
+        f"{BASE_URL.replace('#/Home', '')}api/backup/export",
+        f"{BASE_URL.replace('#/Home', '')}api/config/export",
+        f"{BASE_URL.replace('#/Home', '')}export",
+        f"{BASE_URL.replace('#/Home', '')}backup/export",
+        "http://192.168.66.123/api/backup/export",
+        "http://192.168.66.123/export",
+    ]
+    
+    download_url = None
+    
+    # 先检查页面上是否有显式的下载链接
+    try:
+        export_btn = driver.find_element(By.XPATH, '//*[contains(text(),"BACKUP SETUP TO FILE")]')
+        
+        # 检查 onclick 属性
+        onclick = export_btn.get_attribute("onclick")
+        if onclick:
+            url_match = re.search(r'[\'"]([^\'"]+\.pegall[^\'"]*)[\'"]', onclick)
+            if url_match:
+                download_url = url_match.group(1)
+                print(f"✅ 从 onclick 找到链接: {download_url}")
+        
+        # 检查 href 属性
+        if not download_url:
+            href = export_btn.get_attribute("href")
+            if href and href.startswith('http'):
+                download_url = href
+                print(f"✅ 从 href 找到链接: {download_url}")
+    except:
+        pass
+    
+    # 方法2：直接尝试 GET 请求
+    if not download_url:
+        print("⚠️ 未找到下载链接，尝试 API 端点...")
+        for url in possible_urls:
+            try:
+                print(f"   尝试: {url}")
+                resp = session.get(url, timeout=10)
+                if resp.status_code == 200 and len(resp.content) > 1000:
+                    download_url = url
+                    print(f"✅ 找到有效端点: {url}")
+                    break
+            except:
+                continue
+    
+    # 方法3：模拟点击并拦截请求
+    if not download_url:
+        print("⚠️ 尝试模拟点击获取下载...")
+        try:
+            # 监听网络请求（通过 performance logs）
+            driver.execute_script("""
+                window.performance.mark('download_start');
+                var originalOpen = XMLHttpRequest.prototype.open;
+                window.downloadUrl = null;
+                XMLHttpRequest.prototype.open = function(method, url) {
+                    if(url.includes('pegall') || url.includes('export') || url.includes('backup')) {
+                        window.downloadUrl = url;
+                    }
+                    return originalOpen.apply(this, arguments);
+                };
+            """)
+            
+            # 点击导出按钮
+            export_btn = driver.find_element(By.XPATH, '//*[contains(text(),"BACKUP SETUP TO FILE")]')
+            export_btn.click()
+            time.sleep(2)
+            
+            # 获取捕获的 URL
+            download_url = driver.execute_script("return window.downloadUrl;")
+            if download_url:
+                print(f"✅ 捕获到请求链接: {download_url}")
+        except Exception as e:
+            print(f"   捕获失败: {e}")
+    
+    # 执行下载
+    if download_url:
+        if not download_url.startswith('http'):
+            # 补全 URL
+            download_url = f"http://192.168.66.123{download_url}"
+        
+        print(f"📥 开始下载: {download_url}")
+        try:
+            headers = session.headers.copy()
+            headers.update({
+                'Accept': 'application/octet-stream',
+                'Connection': 'keep-alive',
+            })
+            
+            response = session.get(download_url, headers=headers, timeout=60, stream=True)
+            
+            if response.status_code == 200:
+                with open(save_path, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        f.write(chunk)
+                print(f"✅ 下载成功: {save_path}")
+                return True
+            else:
+                print(f"❌ 下载失败: HTTP {response.status_code}")
+        except Exception as e:
+            print(f"❌ 下载异常: {e}")
+    
+    return False
+
+# ==================== 备用：使用浏览器下载（带弹窗处理） ====================
+def export_via_browser(driver):
+    """使用浏览器下载（备用方案）"""
+    print("\n▶ 尝试浏览器导出...")
+    
+    # 进入备份恢复页面
+    js_click(driver, '//div[contains(@class,"tabbar-item")]//span[text()="Settings"]')
+    time.sleep(1)
+    js_click(driver, '//span[text()="Backup&Restore"]')
+    time.sleep(2)
+    
+    # 点击导出按钮
+    export_btn = driver.find_element(By.XPATH, '//*[contains(text(),"BACKUP SETUP TO FILE")]')
+    driver.execute_script("arguments[0].click();", export_btn)
+    print("✅ 已点击导出按钮")
+    time.sleep(2)
+    
+    # 处理可能的安全弹窗
+    try:
+        # 等待下载安全警告出现
+        time.sleep(1)
+        # 尝试点击"保留"按钮
+        keep_btn = driver.find_element(By.XPATH, "//button[contains(text(),'保留')]")
+        keep_btn.click()
+        print("✅ 已点击保留按钮")
+    except:
+        # 尝试关闭下载栏
+        try:
+            driver.execute_script("""
+                var downloadBar = document.querySelector('download-manager');
+                if(downloadBar) {
+                    var closeBtn = downloadBar.shadowRoot.querySelector('#close');
+                    if(closeBtn) closeBtn.click();
+                }
+            """)
+            print("✅ 已关闭下载栏")
+        except:
+            pass
+    
+    return True
+
+# ==================== 文件管理 ====================
+def get_next_filename():
+    """生成下一个文件名"""
+    existing = []
+    for f in os.listdir(CONFIG_DIR):
+        if f.endswith('.pegall') and f[:-7].isdigit():
+            existing.append(int(f[:-7]))
+    next_num = max(existing) + 1 if existing else 1
+    return os.path.join(CONFIG_DIR, f"{next_num}.pegall")
+
+def wait_for_file(filepath, timeout=30):
+    """等待文件出现并稳定"""
+    start_time = time.time()
+    last_size = -1
+    
+    while time.time() - start_time < timeout:
+        if os.path.exists(filepath):
+            current_size = os.path.getsize(filepath)
+            if current_size == last_size and current_size > 0:
+                print(f"✅ 文件稳定: {os.path.basename(filepath)} ({current_size} bytes)")
+                return True
+            last_size = current_size
+        time.sleep(0.5)
+    
+    return False
+
+# ==================== 配置对比 ====================
+def deep_compare(obj1, obj2, path="", differences=None):
+    """深度对比配置"""
+    if differences is None:
+        differences = []
+    
+    if type(obj1) != type(obj2):
+        differences.append({
+            "path": path,
+            "type": "type_mismatch",
+            "original": str(obj1)[:200],
+            "exported": str(obj2)[:200]
+        })
+        return differences
+    
+    if isinstance(obj1, dict):
+        all_keys = set(obj1.keys()) | set(obj2.keys())
+        for key in all_keys:
+            new_path = f"{path}.{key}" if path else key
+            if key not in obj1:
+                differences.append({"path": new_path, "type": "missing_in_original", "value": obj2[key]})
+            elif key not in obj2:
+                differences.append({"path": new_path, "type": "missing_in_exported", "value": obj1[key]})
+            else:
+                deep_compare(obj1[key], obj2[key], new_path, differences)
+    
+    elif isinstance(obj1, list):
+        if len(obj1) != len(obj2):
+            differences.append({
+                "path": path,
+                "type": "length_mismatch",
+                "original_len": len(obj1),
+                "exported_len": len(obj2)
+            })
+        for i in range(min(len(obj1), len(obj2))):
+            deep_compare(obj1[i], obj2[i], f"{path}[{i}]", differences)
+    
+    elif obj1 != obj2:
+        try:
+            if isinstance(obj1, (int, float)) and isinstance(obj2, (int, float)):
+                if abs(obj1 - obj2) > 0.01:
+                    differences.append({
+                        "path": path,
+                        "type": "value_mismatch",
+                        "original": obj1,
+                        "exported": obj2,
+                        "diff": abs(obj1 - obj2)
+                    })
+            else:
+                differences.append({
+                    "path": path,
+                    "type": "value_mismatch",
+                    "original": str(obj1)[:200],
+                    "exported": str(obj2)[:200]
+                })
+        except:
+            differences.append({"path": path, "type": "value_mismatch", "original": str(obj1), "exported": str(obj2)})
+    
+    return differences
+
+def compare_and_report(original_file, exported_file):
+    """对比并生成报告"""
+    print(f"\n🔍 对比配置文件...")
+    
+    with open(original_file, 'r', encoding='utf-8') as f:
+        original = json.load(f)
+    with open(exported_file, 'r', encoding='utf-8') as f:
+        exported = json.load(f)
+    
+    differences = deep_compare(original, exported)
+    
+    # 统计
+    def count_items(obj):
+        if isinstance(obj, dict):
+            return sum(count_items(v) for v in obj.values())
+        elif isinstance(obj, list):
+            return sum(count_items(i) for i in obj)
+        return 1
+    
+    total = count_items(original)
+    
+    report = {
+        "original": original_file,
+        "exported": exported_file,
+        "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "total_items": total,
+        "differences_count": len(differences),
+        "differences": differences,
+        "is_match": len(differences) == 0
+    }
+    
+    # 打印报告
+    print("\n" + "="*70)
+    print("📊 对比报告")
+    print("="*70)
+    print(f"原始: {original_file}")
+    print(f"导出: {exported_file}")
+    print(f"总配置项: {total}")
+    print(f"差异数: {len(differences)}")
+    
+    if report['is_match']:
+        print("\n✅✅✅ 完美匹配！")
+    else:
+        print(f"\n❌ 发现 {len(differences)} 处差异:")
+        for i, d in enumerate(differences[:20], 1):
+            print(f"\n{i}. 路径: {d['path']}")
+            print(f"   类型: {d['type']}")
+            if 'original' in d:
+                print(f"   原始: {d['original']}")
+            if 'exported' in d:
+                print(f"   导出: {d['exported']}")
+        
+        match_rate = (1 - len(differences) / total) * 100
+        print(f"\n📈 匹配率: {match_rate:.2f}%")
+    
+    # 保存报告
+    report_file = os.path.join(CONFIG_DIR, f"report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+    with open(report_file, 'w', encoding='utf-8') as f:
+        json.dump(report, f, indent=2, ensure_ascii=False)
+    print(f"\n📄 报告已保存: {report_file}")
+    
+    return report['is_match']
+
+# ==================== 基础工具 ====================
+def js_click(driver, xpath, timeout=5):
+    try:
+        ele = WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath)))
+        driver.execute_script("arguments[0].click();", ele)
+        time.sleep(PAGE_WAIT)
+        return True
+    except:
+        return False
+
+# ==================== 主流程 ====================
+def main():
+    opt = get_chrome_options()
+    driver = webdriver.Chrome(options=opt)
+    
+    try:
+        driver.get(BASE_URL)
+        time.sleep(3)
+        
+        # 进入设置 → 备份恢复
+        print("▶ 进入 Settings → Backup&Restore")
+        js_click(driver, '//div[contains(@class,"tabbar-item")]//span[text()="Settings"]')
+        js_click(driver, '//span[text()="Backup&Restore"]')
+        time.sleep(2)
+        
+        # 导入配置
+        print("▶ 导入配置")
+        js_click(driver, '//*[contains(text(),"RESTORE SETUP FROM FILE")]')
+        time.sleep(1)
+        
+        file_input = driver.find_element(By.CSS_SELECTOR, "input[type=file]")
+        file_input.send_keys(ORIGINAL_FILE)
+        print(f"✅ 已上传: {ORIGINAL_FILE}")
+        
+        # 等待导入完成
+        for _ in range(180):
+            try:
+                text = driver.find_element(By.CLASS_NAME, "ant-progress-text").text
+                print(f"\r进度: {text}", end="")
+                if "100%" in text:
+                    print("\n✅ 导入完成")
+                    break
+            except:
+                pass
+            time.sleep(1)
+        
+        # 等待设备保存
+        print(f"\n⏳ 等待 {AFTER_RESTORE_WAIT} 秒...")
+        time.sleep(AFTER_RESTORE_WAIT)
+        
+        # 导出配置
+        export_file = get_next_filename()
+        
+        # 获取 session 并下载
+        session = get_cookies_and_session(driver)
+        success = download_via_http(driver, session, export_file)
+        
+        if not success:
+            print("⚠️ HTTP下载失败，尝试浏览器下载...")
+            export_via_browser(driver)
+            
+            # 等待下载
+            time.sleep(5)
+            # 查找最新下载的 pegall 文件
+            pegall_files = [f for f in os.listdir(CONFIG_DIR) if f.endswith('.pegall') and not f.startswith('report')]
+            if pegall_files:
+                latest = max(pegall_files, key=lambda x: os.path.getctime(os.path.join(CONFIG_DIR, x)))
+                export_file = os.path.join(CONFIG_DIR, latest)
+                print(f"✅ 找到导出文件: {latest}")
+                success = True
+        
+        if not success:
+            print("❌ 导出失败")
+            return
+        
+        # 等待文件稳定
+        time.sleep(2)
+        
+        # 对比配置
+        is_match = compare_and_report(ORIGINAL_FILE, export_file)
+        
+        print(f"\n{'='*50}")
+        print(f"最终结果: {'✅ 通过' if is_match else '❌ 失败'}")
+        print(f"{'='*50}")
+        
+    except Exception as e:
+        print(f"❌ 错误: {e}")
+        import traceback
+        traceback.print_exc()
+    finally:
+        input("\n按回车关闭浏览器...")
+        driver.quit()
+
+if __name__ == "__main__":
+    main()

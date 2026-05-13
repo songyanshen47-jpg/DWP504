@@ -1,0 +1,2707 @@
+[
+    {
+        "hz": 20,
+        "display": "20 Hz",
+        "percent": "0"
+    },
+    {
+        "hz": 21,
+        "display": "21 Hz",
+        "percent": "0.70605"
+    },
+    {
+        "hz": 22,
+        "display": "22 Hz",
+        "percent": "1.37946"
+    },
+    {
+        "hz": 23,
+        "display": "23 Hz",
+        "percent": "2.02343"
+    },
+    {
+        "hz": 24,
+        "display": "24 Hz",
+        "percent": "2.63953"
+    },
+    {
+        "hz": 25,
+        "display": "25 Hz",
+        "percent": "3.23016"
+    },
+    {
+        "hz": 26,
+        "display": "26 Hz",
+        "percent": "3.7985"
+    },
+    {
+        "hz": 27,
+        "display": "27 Hz",
+        "percent": "4.34456"
+    },
+    {
+        "hz": 28,
+        "display": "28 Hz",
+        "percent": "4.87071"
+    },
+    {
+        "hz": 29,
+        "display": "29 Hz",
+        "percent": "5.37856"
+    },
+    {
+        "hz": 30,
+        "display": "30 Hz",
+        "percent": "5.86969"
+    },
+    {
+        "hz": 31,
+        "display": "31 Hz",
+        "percent": "6.3441"
+    },
+    {
+        "hz": 32,
+        "display": "32 Hz",
+        "percent": "6.80419"
+    },
+    {
+        "hz": 33,
+        "display": "33 Hz",
+        "percent": "7.24915"
+    },
+    {
+        "hz": 34,
+        "display": "34 Hz",
+        "percent": "7.68138"
+    },
+    {
+        "hz": 35,
+        "display": "35 Hz",
+        "percent": "8.10087"
+    },
+    {
+        "hz": 36,
+        "display": "36 Hz",
+        "percent": "8.50922"
+    },
+    {
+        "hz": 37,
+        "display": "37 Hz",
+        "percent": "8.90563"
+    },
+    {
+        "hz": 38,
+        "display": "38 Hz",
+        "percent": "9.29169"
+    },
+    {
+        "hz": 39,
+        "display": "39 Hz",
+        "percent": "9.66819"
+    },
+    {
+        "hz": 40,
+        "display": "40 Hz",
+        "percent": "10.0344"
+    },
+    {
+        "hz": 41,
+        "display": "41 Hz",
+        "percent": "10.3918"
+    },
+    {
+        "hz": 42,
+        "display": "42 Hz",
+        "percent": "10.7404"
+    },
+    {
+        "hz": 43,
+        "display": "43 Hz",
+        "percent": "11.0811"
+    },
+    {
+        "hz": 44,
+        "display": "44 Hz",
+        "percent": "11.4138"
+    },
+    {
+        "hz": 45,
+        "display": "45 Hz",
+        "percent": "11.7394"
+    },
+    {
+        "hz": 46,
+        "display": "46 Hz",
+        "percent": "12.0578"
+    },
+    {
+        "hz": 47,
+        "display": "47 Hz",
+        "percent": "12.369"
+    },
+    {
+        "hz": 48,
+        "display": "48 Hz",
+        "percent": "12.6739"
+    },
+    {
+        "hz": 49,
+        "display": "49 Hz",
+        "percent": "12.9724"
+    },
+    {
+        "hz": 50,
+        "display": "50 Hz",
+        "percent": "13.2647"
+    },
+    {
+        "hz": 51,
+        "display": "51 Hz",
+        "percent": "13.5511"
+    },
+    {
+        "hz": 52,
+        "display": "52 Hz",
+        "percent": "13.8321"
+    },
+    {
+        "hz": 53,
+        "display": "53 Hz",
+        "percent": "14.1083"
+    },
+    {
+        "hz": 54,
+        "display": "54 Hz",
+        "percent": "14.3789"
+    },
+    {
+        "hz": 55,
+        "display": "55 Hz",
+        "percent": "14.6448"
+    },
+    {
+        "hz": 56,
+        "display": "56 Hz",
+        "percent": "14.9051"
+    },
+    {
+        "hz": 57,
+        "display": "57 Hz",
+        "percent": "15.1614"
+    },
+    {
+        "hz": 58,
+        "display": "58 Hz",
+        "percent": "15.4129"
+    },
+    {
+        "hz": 59,
+        "display": "59 Hz",
+        "percent": "15.6605"
+    },
+    {
+        "hz": 60,
+        "display": "60 Hz",
+        "percent": "15.904"
+    },
+    {
+        "hz": 61,
+        "display": "61 Hz",
+        "percent": "16.1436"
+    },
+    {
+        "hz": 62,
+        "display": "62 Hz",
+        "percent": "16.3785"
+    },
+    {
+        "hz": 63,
+        "display": "63 Hz",
+        "percent": "16.6101"
+    },
+    {
+        "hz": 64,
+        "display": "64 Hz",
+        "percent": "16.8385"
+    },
+    {
+        "hz": 65,
+        "display": "65 Hz",
+        "percent": "17.063"
+    },
+    {
+        "hz": 66,
+        "display": "66 Hz",
+        "percent": "17.2835"
+    },
+    {
+        "hz": 67,
+        "display": "67 Hz",
+        "percent": "17.5016"
+    },
+    {
+        "hz": 68,
+        "display": "68 Hz",
+        "percent": "17.7157"
+    },
+    {
+        "hz": 69,
+        "display": "69 Hz",
+        "percent": "17.9275"
+    },
+    {
+        "hz": 70,
+        "display": "70 Hz",
+        "percent": "18.1352"
+    },
+    {
+        "hz": 71,
+        "display": "71 Hz",
+        "percent": "18.3406"
+    },
+    {
+        "hz": 72,
+        "display": "72 Hz",
+        "percent": "18.5436"
+    },
+    {
+        "hz": 73,
+        "display": "73 Hz",
+        "percent": "18.7434"
+    },
+    {
+        "hz": 74,
+        "display": "74 Hz",
+        "percent": "18.94"
+    },
+    {
+        "hz": 75,
+        "display": "75 Hz",
+        "percent": "19.1342"
+    },
+    {
+        "hz": 76,
+        "display": "76 Hz",
+        "percent": "19.326"
+    },
+    {
+        "hz": 77,
+        "display": "77 Hz",
+        "percent": "19.5155"
+    },
+    {
+        "hz": 78,
+        "display": "78 Hz",
+        "percent": "19.7025"
+    },
+    {
+        "hz": 79,
+        "display": "79 Hz",
+        "percent": "19.8864"
+    },
+    {
+        "hz": 80,
+        "display": "80 Hz",
+        "percent": "20.0687"
+    },
+    {
+        "hz": 81,
+        "display": "81 Hz",
+        "percent": "20.2486"
+    },
+    {
+        "hz": 82,
+        "display": "82 Hz",
+        "percent": "20.4261"
+    },
+    {
+        "hz": 83,
+        "display": "83 Hz",
+        "percent": "20.6012"
+    },
+    {
+        "hz": 84,
+        "display": "84 Hz",
+        "percent": "20.7748"
+    },
+    {
+        "hz": 85,
+        "display": "85 Hz",
+        "percent": "20.9467"
+    },
+    {
+        "hz": 86,
+        "display": "86 Hz",
+        "percent": "21.1154"
+    },
+    {
+        "hz": 87,
+        "display": "87 Hz",
+        "percent": "21.2826"
+    },
+    {
+        "hz": 88,
+        "display": "88 Hz",
+        "percent": "21.4482"
+    },
+    {
+        "hz": 89,
+        "display": "89 Hz",
+        "percent": "21.6121"
+    },
+    {
+        "hz": 90,
+        "display": "90 Hz",
+        "percent": "21.7737"
+    },
+    {
+        "hz": 91,
+        "display": "91 Hz",
+        "percent": "21.9337"
+    },
+    {
+        "hz": 92,
+        "display": "92 Hz",
+        "percent": "22.0921"
+    },
+    {
+        "hz": 93,
+        "display": "93 Hz",
+        "percent": "22.2481"
+    },
+    {
+        "hz": 94,
+        "display": "94 Hz",
+        "percent": "22.4034"
+    },
+    {
+        "hz": 95,
+        "display": "95 Hz",
+        "percent": "22.5562"
+    },
+    {
+        "hz": 96,
+        "display": "96 Hz",
+        "percent": "22.7082"
+    },
+    {
+        "hz": 97,
+        "display": "97 Hz",
+        "percent": "22.8579"
+    },
+    {
+        "hz": 98,
+        "display": "98 Hz",
+        "percent": "23.0067"
+    },
+    {
+        "hz": 99,
+        "display": "99 Hz",
+        "percent": "23.1532"
+    },
+    {
+        "hz": 100,
+        "display": "100 Hz",
+        "percent": "23.299"
+    },
+    {
+        "hz": 101,
+        "display": "101 Hz",
+        "percent": "23.4429"
+    },
+    {
+        "hz": 102,
+        "display": "102 Hz",
+        "percent": "23.5854"
+    },
+    {
+        "hz": 103,
+        "display": "103 Hz",
+        "percent": "23.7271"
+    },
+    {
+        "hz": 104,
+        "display": "104 Hz",
+        "percent": "23.8664"
+    },
+    {
+        "hz": 105,
+        "display": "105 Hz",
+        "percent": "24.0049"
+    },
+    {
+        "hz": 106,
+        "display": "106 Hz",
+        "percent": "24.1426"
+    },
+    {
+        "hz": 107,
+        "display": "107 Hz",
+        "percent": "24.2787"
+    },
+    {
+        "hz": 108,
+        "display": "108 Hz",
+        "percent": "24.4133"
+    },
+    {
+        "hz": 109,
+        "display": "109 Hz",
+        "percent": "24.5462"
+    },
+    {
+        "hz": 110,
+        "display": "110 Hz",
+        "percent": "24.6791"
+    },
+    {
+        "hz": 111,
+        "display": "111 Hz",
+        "percent": "24.8097"
+    },
+    {
+        "hz": 112,
+        "display": "112 Hz",
+        "percent": "24.9394"
+    },
+    {
+        "hz": 113,
+        "display": "113 Hz",
+        "percent": "25.0684"
+    },
+    {
+        "hz": 114,
+        "display": "114 Hz",
+        "percent": "25.1957"
+    },
+    {
+        "hz": 115,
+        "display": "115 Hz",
+        "percent": "25.3223"
+    },
+    {
+        "hz": 116,
+        "display": "116 Hz",
+        "percent": "25.4473"
+    },
+    {
+        "hz": 117,
+        "display": "117 Hz",
+        "percent": "25.5722"
+    },
+    {
+        "hz": 118,
+        "display": "118 Hz",
+        "percent": "25.6948"
+    },
+    {
+        "hz": 119,
+        "display": "119 Hz",
+        "percent": "25.8174"
+    },
+    {
+        "hz": 120,
+        "display": "120 Hz",
+        "percent": "25.9384"
+    },
+    {
+        "hz": 121,
+        "display": "121 Hz",
+        "percent": "26.0586"
+    },
+    {
+        "hz": 122,
+        "display": "122 Hz",
+        "percent": "26.178"
+    },
+    {
+        "hz": 123,
+        "display": "123 Hz",
+        "percent": "26.2958"
+    },
+    {
+        "hz": 124,
+        "display": "124 Hz",
+        "percent": "26.4128"
+    },
+    {
+        "hz": 125,
+        "display": "125 Hz",
+        "percent": "26.529"
+    },
+    {
+        "hz": 126,
+        "display": "126 Hz",
+        "percent": "26.6444"
+    },
+    {
+        "hz": 127,
+        "display": "127 Hz",
+        "percent": "26.7591"
+    },
+    {
+        "hz": 128,
+        "display": "128 Hz",
+        "percent": "26.8729"
+    },
+    {
+        "hz": 129,
+        "display": "129 Hz",
+        "percent": "26.9851"
+    },
+    {
+        "hz": 130,
+        "display": "130 Hz",
+        "percent": "27.0974"
+    },
+    {
+        "hz": 131,
+        "display": "131 Hz",
+        "percent": "27.208"
+    },
+    {
+        "hz": 132,
+        "display": "132 Hz",
+        "percent": "27.3179"
+    },
+    {
+        "hz": 133,
+        "display": "133 Hz",
+        "percent": "27.4277"
+    },
+    {
+        "hz": 134,
+        "display": "134 Hz",
+        "percent": "27.536"
+    },
+    {
+        "hz": 135,
+        "display": "135 Hz",
+        "percent": "27.6434"
+    },
+    {
+        "hz": 136,
+        "display": "136 Hz",
+        "percent": "27.7501"
+    },
+    {
+        "hz": 137,
+        "display": "137 Hz",
+        "percent": "27.8567"
+    },
+    {
+        "hz": 138,
+        "display": "138 Hz",
+        "percent": "27.9618"
+    },
+    {
+        "hz": 139,
+        "display": "139 Hz",
+        "percent": "28.0661"
+    },
+    {
+        "hz": 140,
+        "display": "140 Hz",
+        "percent": "28.1696"
+    },
+    {
+        "hz": 141,
+        "display": "141 Hz",
+        "percent": "28.2731"
+    },
+    {
+        "hz": 142,
+        "display": "142 Hz",
+        "percent": "28.3749"
+    },
+    {
+        "hz": 143,
+        "display": "143 Hz",
+        "percent": "28.4768"
+    },
+    {
+        "hz": 144,
+        "display": "144 Hz",
+        "percent": "28.5779"
+    },
+    {
+        "hz": 145,
+        "display": "145 Hz",
+        "percent": "28.6782"
+    },
+    {
+        "hz": 146,
+        "display": "146 Hz",
+        "percent": "28.7777"
+    },
+    {
+        "hz": 147,
+        "display": "147 Hz",
+        "percent": "28.8764"
+    },
+    {
+        "hz": 148,
+        "display": "148 Hz",
+        "percent": "28.9743"
+    },
+    {
+        "hz": 149,
+        "display": "149 Hz",
+        "percent": "29.0722"
+    },
+    {
+        "hz": 150,
+        "display": "150 Hz",
+        "percent": "29.1686"
+    },
+    {
+        "hz": 151,
+        "display": "151 Hz",
+        "percent": "29.2649"
+    },
+    {
+        "hz": 152,
+        "display": "152 Hz",
+        "percent": "29.3604"
+    },
+    {
+        "hz": 153,
+        "display": "153 Hz",
+        "percent": "29.4551"
+    },
+    {
+        "hz": 154,
+        "display": "154 Hz",
+        "percent": "29.5498"
+    },
+    {
+        "hz": 155,
+        "display": "155 Hz",
+        "percent": "29.6438"
+    },
+    {
+        "hz": 156,
+        "display": "156 Hz",
+        "percent": "29.7361"
+    },
+    {
+        "hz": 157,
+        "display": "157 Hz",
+        "percent": "29.8292"
+    },
+    {
+        "hz": 158,
+        "display": "158 Hz",
+        "percent": "29.9208"
+    },
+    {
+        "hz": 159,
+        "display": "159 Hz",
+        "percent": "30.0123"
+    },
+    {
+        "hz": 160,
+        "display": "160 Hz",
+        "percent": "30.1031"
+    },
+    {
+        "hz": 161,
+        "display": "161 Hz",
+        "percent": "30.193"
+    },
+    {
+        "hz": 162,
+        "display": "162 Hz",
+        "percent": "30.283"
+    },
+    {
+        "hz": 163,
+        "display": "163 Hz",
+        "percent": "30.3721"
+    },
+    {
+        "hz": 164,
+        "display": "164 Hz",
+        "percent": "30.4605"
+    },
+    {
+        "hz": 165,
+        "display": "165 Hz",
+        "percent": "30.5488"
+    },
+    {
+        "hz": 166,
+        "display": "166 Hz",
+        "percent": "30.6356"
+    },
+    {
+        "hz": 167,
+        "display": "167 Hz",
+        "percent": "30.7231"
+    },
+    {
+        "hz": 168,
+        "display": "168 Hz",
+        "percent": "30.8091"
+    },
+    {
+        "hz": 169,
+        "display": "169 Hz",
+        "percent": "30.8951"
+    },
+    {
+        "hz": 170,
+        "display": "170 Hz",
+        "percent": "30.9802"
+    },
+    {
+        "hz": 171,
+        "display": "171 Hz",
+        "percent": "31.0654"
+    },
+    {
+        "hz": 172,
+        "display": "172 Hz",
+        "percent": "31.1498"
+    },
+    {
+        "hz": 173,
+        "display": "173 Hz",
+        "percent": "31.2342"
+    },
+    {
+        "hz": 174,
+        "display": "174 Hz",
+        "percent": "31.317"
+    },
+    {
+        "hz": 175,
+        "display": "175 Hz",
+        "percent": "31.4005"
+    },
+    {
+        "hz": 176,
+        "display": "176 Hz",
+        "percent": "31.4825"
+    },
+    {
+        "hz": 177,
+        "display": "177 Hz",
+        "percent": "31.5645"
+    },
+    {
+        "hz": 178,
+        "display": "178 Hz",
+        "percent": "31.6465"
+    },
+    {
+        "hz": 179,
+        "display": "179 Hz",
+        "percent": "31.7277"
+    },
+    {
+        "hz": 180,
+        "display": "180 Hz",
+        "percent": "31.8081"
+    },
+    {
+        "hz": 181,
+        "display": "181 Hz",
+        "percent": "31.8885"
+    },
+    {
+        "hz": 182,
+        "display": "182 Hz",
+        "percent": "31.9681"
+    },
+    {
+        "hz": 183,
+        "display": "183 Hz",
+        "percent": "32.0477"
+    },
+    {
+        "hz": 184,
+        "display": "184 Hz",
+        "percent": "32.1265"
+    },
+    {
+        "hz": 185,
+        "display": "185 Hz",
+        "percent": "32.2045"
+    },
+    {
+        "hz": 186,
+        "display": "186 Hz",
+        "percent": "32.2825"
+    },
+    {
+        "hz": 187,
+        "display": "187 Hz",
+        "percent": "32.3605"
+    },
+    {
+        "hz": 188,
+        "display": "188 Hz",
+        "percent": "32.4377"
+    },
+    {
+        "hz": 189,
+        "display": "189 Hz",
+        "percent": "32.5141"
+    },
+    {
+        "hz": 190,
+        "display": "190 Hz",
+        "percent": "32.5905"
+    },
+    {
+        "hz": 191,
+        "display": "191 Hz",
+        "percent": "32.667"
+    },
+    {
+        "hz": 192,
+        "display": "192 Hz",
+        "percent": "32.7426"
+    },
+    {
+        "hz": 193,
+        "display": "193 Hz",
+        "percent": "32.8174"
+    },
+    {
+        "hz": 194,
+        "display": "194 Hz",
+        "percent": "32.8922"
+    },
+    {
+        "hz": 195,
+        "display": "195 Hz",
+        "percent": "32.9671"
+    },
+    {
+        "hz": 196,
+        "display": "196 Hz",
+        "percent": "33.0411"
+    },
+    {
+        "hz": 197,
+        "display": "197 Hz",
+        "percent": "33.1143"
+    },
+    {
+        "hz": 198,
+        "display": "198 Hz",
+        "percent": "33.1875"
+    },
+    {
+        "hz": 199,
+        "display": "199 Hz",
+        "percent": "33.2608"
+    },
+    {
+        "hz": 200,
+        "display": "200 Hz",
+        "percent": "33.3333"
+    },
+    {
+        "hz": 210,
+        "display": "210 Hz",
+        "percent": "34.0369"
+    },
+    {
+        "hz": 220,
+        "display": "220 Hz",
+        "percent": "34.7135"
+    },
+    {
+        "hz": 230,
+        "display": "230 Hz",
+        "percent": "35.3582"
+    },
+    {
+        "hz": 240,
+        "display": "240 Hz",
+        "percent": "35.9712"
+    },
+    {
+        "hz": 250,
+        "display": "250 Hz",
+        "percent": "36.5602"
+    },
+    {
+        "hz": 260,
+        "display": "260 Hz",
+        "percent": "37.1333"
+    },
+    {
+        "hz": 270,
+        "display": "270 Hz",
+        "percent": "37.6746"
+    },
+    {
+        "hz": 280,
+        "display": "280 Hz",
+        "percent": "38.2079"
+    },
+    {
+        "hz": 290,
+        "display": "290 Hz",
+        "percent": "38.7094"
+    },
+    {
+        "hz": 300,
+        "display": "300 Hz",
+        "percent": "39.2029"
+    },
+    {
+        "hz": 310,
+        "display": "310 Hz",
+        "percent": "39.6805"
+    },
+    {
+        "hz": 320,
+        "display": "320 Hz",
+        "percent": "40.1342"
+    },
+    {
+        "hz": 330,
+        "display": "330 Hz",
+        "percent": "40.58"
+    },
+    {
+        "hz": 340,
+        "display": "340 Hz",
+        "percent": "41.0178"
+    },
+    {
+        "hz": 350,
+        "display": "350 Hz",
+        "percent": "41.4317"
+    },
+    {
+        "hz": 360,
+        "display": "360 Hz",
+        "percent": "41.8456"
+    },
+    {
+        "hz": 370,
+        "display": "370 Hz",
+        "percent": "42.2357"
+    },
+    {
+        "hz": 380,
+        "display": "380 Hz",
+        "percent": "42.6257"
+    },
+    {
+        "hz": 390,
+        "display": "390 Hz",
+        "percent": "42.9998"
+    },
+    {
+        "hz": 400,
+        "display": "400 Hz",
+        "percent": "43.366"
+    },
+    {
+        "hz": 410,
+        "display": "410 Hz",
+        "percent": "43.7242"
+    },
+    {
+        "hz": 420,
+        "display": "420 Hz",
+        "percent": "44.0744"
+    },
+    {
+        "hz": 430,
+        "display": "430 Hz",
+        "percent": "44.4167"
+    },
+    {
+        "hz": 440,
+        "display": "440 Hz",
+        "percent": "44.751"
+    },
+    {
+        "hz": 450,
+        "display": "450 Hz",
+        "percent": "45.0694"
+    },
+    {
+        "hz": 460,
+        "display": "460 Hz",
+        "percent": "45.3878"
+    },
+    {
+        "hz": 470,
+        "display": "470 Hz",
+        "percent": "45.7062"
+    },
+    {
+        "hz": 480,
+        "display": "480 Hz",
+        "percent": "46.0087"
+    },
+    {
+        "hz": 490,
+        "display": "490 Hz",
+        "percent": "46.3032"
+    },
+    {
+        "hz": 500,
+        "display": "500 Hz",
+        "percent": "46.598"
+    },
+    {
+        "hz": 510,
+        "display": "510 Hz",
+        "percent": "46.8843"
+    },
+    {
+        "hz": 520,
+        "display": "520 Hz",
+        "percent": "47.1629"
+    },
+    {
+        "hz": 530,
+        "display": "530 Hz",
+        "percent": "47.4415"
+    },
+    {
+        "hz": 540,
+        "display": "540 Hz",
+        "percent": "47.7121"
+    },
+    {
+        "hz": 550,
+        "display": "550 Hz",
+        "percent": "47.9748"
+    },
+    {
+        "hz": 560,
+        "display": "560 Hz",
+        "percent": "48.2375"
+    },
+    {
+        "hz": 570,
+        "display": "570 Hz",
+        "percent": "48.4922"
+    },
+    {
+        "hz": 580,
+        "display": "580 Hz",
+        "percent": "48.7469"
+    },
+    {
+        "hz": 590,
+        "display": "590 Hz",
+        "percent": "48.9937"
+    },
+    {
+        "hz": 600,
+        "display": "600 Hz",
+        "percent": "49.2404"
+    },
+    {
+        "hz": 610,
+        "display": "610 Hz",
+        "percent": "49.4792"
+    },
+    {
+        "hz": 620,
+        "display": "620 Hz",
+        "percent": "49.7101"
+    },
+    {
+        "hz": 630,
+        "display": "630 Hz",
+        "percent": "49.9409"
+    },
+    {
+        "hz": 640,
+        "display": "640 Hz",
+        "percent": "50.1718"
+    },
+    {
+        "hz": 650,
+        "display": "650 Hz",
+        "percent": "50.3946"
+    },
+    {
+        "hz": 660,
+        "display": "660 Hz",
+        "percent": "50.6175"
+    },
+    {
+        "hz": 670,
+        "display": "670 Hz",
+        "percent": "50.8324"
+    },
+    {
+        "hz": 680,
+        "display": "680 Hz",
+        "percent": "51.0474"
+    },
+    {
+        "hz": 690,
+        "display": "690 Hz",
+        "percent": "51.2623"
+    },
+    {
+        "hz": 700,
+        "display": "700 Hz",
+        "percent": "51.4692"
+    },
+    {
+        "hz": 710,
+        "display": "710 Hz",
+        "percent": "51.6762"
+    },
+    {
+        "hz": 720,
+        "display": "720 Hz",
+        "percent": "51.8752"
+    },
+    {
+        "hz": 730,
+        "display": "730 Hz",
+        "percent": "52.0742"
+    },
+    {
+        "hz": 740,
+        "display": "740 Hz",
+        "percent": "52.2732"
+    },
+    {
+        "hz": 750,
+        "display": "750 Hz",
+        "percent": "52.4642"
+    },
+    {
+        "hz": 760,
+        "display": "760 Hz",
+        "percent": "52.6632"
+    },
+    {
+        "hz": 770,
+        "display": "770 Hz",
+        "percent": "52.8463"
+    },
+    {
+        "hz": 780,
+        "display": "780 Hz",
+        "percent": "53.0374"
+    },
+    {
+        "hz": 790,
+        "display": "790 Hz",
+        "percent": "53.2204"
+    },
+    {
+        "hz": 800,
+        "display": "800 Hz",
+        "percent": "53.4035"
+    },
+    {
+        "hz": 810,
+        "display": "810 Hz",
+        "percent": "53.5786"
+    },
+    {
+        "hz": 820,
+        "display": "820 Hz",
+        "percent": "53.7617"
+    },
+    {
+        "hz": 830,
+        "display": "830 Hz",
+        "percent": "53.9368"
+    },
+    {
+        "hz": 840,
+        "display": "840 Hz",
+        "percent": "54.112"
+    },
+    {
+        "hz": 850,
+        "display": "850 Hz",
+        "percent": "54.2791"
+    },
+    {
+        "hz": 860,
+        "display": "860 Hz",
+        "percent": "54.4463"
+    },
+    {
+        "hz": 870,
+        "display": "870 Hz",
+        "percent": "54.6134"
+    },
+    {
+        "hz": 880,
+        "display": "880 Hz",
+        "percent": "54.7806"
+    },
+    {
+        "hz": 890,
+        "display": "890 Hz",
+        "percent": "54.9477"
+    },
+    {
+        "hz": 900,
+        "display": "900 Hz",
+        "percent": "55.1069"
+    },
+    {
+        "hz": 910,
+        "display": "910 Hz",
+        "percent": "55.2661"
+    },
+    {
+        "hz": 920,
+        "display": "920 Hz",
+        "percent": "55.4253"
+    },
+    {
+        "hz": 930,
+        "display": "930 Hz",
+        "percent": "55.5845"
+    },
+    {
+        "hz": 940,
+        "display": "940 Hz",
+        "percent": "55.7358"
+    },
+    {
+        "hz": 950,
+        "display": "950 Hz",
+        "percent": "55.887"
+    },
+    {
+        "hz": 960,
+        "display": "960 Hz",
+        "percent": "56.0383"
+    },
+    {
+        "hz": 970,
+        "display": "970 Hz",
+        "percent": "56.1895"
+    },
+    {
+        "hz": 980,
+        "display": "980 Hz",
+        "percent": "56.3407"
+    },
+    {
+        "hz": 990,
+        "display": "990 Hz",
+        "percent": "56.484"
+    },
+    {
+        "hz": 1000,
+        "display": "1k Hz",
+        "percent": "56.6323"
+    },
+    {
+        "hz": 1010,
+        "display": "1.01k Hz",
+        "percent": "56.7785"
+    },
+    {
+        "hz": 1020,
+        "display": "1.02k Hz",
+        "percent": "56.9218"
+    },
+    {
+        "hz": 1030,
+        "display": "1.03k Hz",
+        "percent": "57.0571"
+    },
+    {
+        "hz": 1040,
+        "display": "1.04k Hz",
+        "percent": "57.2004"
+    },
+    {
+        "hz": 1050,
+        "display": "1.05k Hz",
+        "percent": "57.3357"
+    },
+    {
+        "hz": 1060,
+        "display": "1.06k Hz",
+        "percent": "57.479"
+    },
+    {
+        "hz": 1070,
+        "display": "1.07k Hz",
+        "percent": "57.6143"
+    },
+    {
+        "hz": 1080,
+        "display": "1.08k Hz",
+        "percent": "57.7497"
+    },
+    {
+        "hz": 1090,
+        "display": "1.09k Hz",
+        "percent": "57.877"
+    },
+    {
+        "hz": 1100,
+        "display": "1.1k Hz",
+        "percent": "58.0123"
+    },
+    {
+        "hz": 1110,
+        "display": "1.11k Hz",
+        "percent": "58.1397"
+    },
+    {
+        "hz": 1120,
+        "display": "1.12k Hz",
+        "percent": "58.275"
+    },
+    {
+        "hz": 1130,
+        "display": "1.13k Hz",
+        "percent": "58.4024"
+    },
+    {
+        "hz": 1140,
+        "display": "1.14k Hz",
+        "percent": "58.5297"
+    },
+    {
+        "hz": 1150,
+        "display": "1.15k Hz",
+        "percent": "58.6571"
+    },
+    {
+        "hz": 1160,
+        "display": "1.16k Hz",
+        "percent": "58.7845"
+    },
+    {
+        "hz": 1170,
+        "display": "1.17k Hz",
+        "percent": "58.9039"
+    },
+    {
+        "hz": 1180,
+        "display": "1.18k Hz",
+        "percent": "59.0312"
+    },
+    {
+        "hz": 1190,
+        "display": "1.19k Hz",
+        "percent": "59.1506"
+    },
+    {
+        "hz": 1200,
+        "display": "1.2k Hz",
+        "percent": "59.27"
+    },
+    {
+        "hz": 1210,
+        "display": "1.21k Hz",
+        "percent": "59.3894"
+    },
+    {
+        "hz": 1220,
+        "display": "1.22k Hz",
+        "percent": "59.5088"
+    },
+    {
+        "hz": 1230,
+        "display": "1.23k Hz",
+        "percent": "59.6282"
+    },
+    {
+        "hz": 1240,
+        "display": "1.24k Hz",
+        "percent": "59.7476"
+    },
+    {
+        "hz": 1250,
+        "display": "1.25k Hz",
+        "percent": "59.8591"
+    },
+    {
+        "hz": 1260,
+        "display": "1.26k Hz",
+        "percent": "59.9785"
+    },
+    {
+        "hz": 1270,
+        "display": "1.27k Hz",
+        "percent": "60.0899"
+    },
+    {
+        "hz": 1280,
+        "display": "1.28k Hz",
+        "percent": "60.2093"
+    },
+    {
+        "hz": 1290,
+        "display": "1.29k Hz",
+        "percent": "60.3207"
+    },
+    {
+        "hz": 1300,
+        "display": "1.3k Hz",
+        "percent": "60.4322"
+    },
+    {
+        "hz": 1310,
+        "display": "1.31k Hz",
+        "percent": "60.5436"
+    },
+    {
+        "hz": 1320,
+        "display": "1.32k Hz",
+        "percent": "60.6551"
+    },
+    {
+        "hz": 1330,
+        "display": "1.33k Hz",
+        "percent": "60.7585"
+    },
+    {
+        "hz": 1340,
+        "display": "1.34k Hz",
+        "percent": "60.87"
+    },
+    {
+        "hz": 1350,
+        "display": "1.35k Hz",
+        "percent": "60.9735"
+    },
+    {
+        "hz": 1360,
+        "display": "1.36k Hz",
+        "percent": "61.0849"
+    },
+    {
+        "hz": 1370,
+        "display": "1.37k Hz",
+        "percent": "61.1884"
+    },
+    {
+        "hz": 1380,
+        "display": "1.38k Hz",
+        "percent": "61.2919"
+    },
+    {
+        "hz": 1390,
+        "display": "1.39k Hz",
+        "percent": "61.4033"
+    },
+    {
+        "hz": 1400,
+        "display": "1.4k Hz",
+        "percent": "61.5068"
+    },
+    {
+        "hz": 1410,
+        "display": "1.41k Hz",
+        "percent": "61.6103"
+    },
+    {
+        "hz": 1420,
+        "display": "1.42k Hz",
+        "percent": "61.7058"
+    },
+    {
+        "hz": 1430,
+        "display": "1.43k Hz",
+        "percent": "61.8093"
+    },
+    {
+        "hz": 1440,
+        "display": "1.44k Hz",
+        "percent": "61.9127"
+    },
+    {
+        "hz": 1450,
+        "display": "1.45k Hz",
+        "percent": "62.0083"
+    },
+    {
+        "hz": 1460,
+        "display": "1.46k Hz",
+        "percent": "62.1117"
+    },
+    {
+        "hz": 1470,
+        "display": "1.47k Hz",
+        "percent": "62.2073"
+    },
+    {
+        "hz": 1480,
+        "display": "1.48k Hz",
+        "percent": "62.3107"
+    },
+    {
+        "hz": 1490,
+        "display": "1.49k Hz",
+        "percent": "62.4063"
+    },
+    {
+        "hz": 1500,
+        "display": "1.5k Hz",
+        "percent": "62.5018"
+    },
+    {
+        "hz": 1510,
+        "display": "1.51k Hz",
+        "percent": "62.5973"
+    },
+    {
+        "hz": 1520,
+        "display": "1.52k Hz",
+        "percent": "62.6928"
+    },
+    {
+        "hz": 1530,
+        "display": "1.53k Hz",
+        "percent": "62.7883"
+    },
+    {
+        "hz": 1540,
+        "display": "1.54k Hz",
+        "percent": "62.8838"
+    },
+    {
+        "hz": 1550,
+        "display": "1.55k Hz",
+        "percent": "62.9794"
+    },
+    {
+        "hz": 1560,
+        "display": "1.56k Hz",
+        "percent": "63.0669"
+    },
+    {
+        "hz": 1570,
+        "display": "1.57k Hz",
+        "percent": "63.1624"
+    },
+    {
+        "hz": 1580,
+        "display": "1.58k Hz",
+        "percent": "63.258"
+    },
+    {
+        "hz": 1590,
+        "display": "1.59k Hz",
+        "percent": "63.3455"
+    },
+    {
+        "hz": 1600,
+        "display": "1.6k Hz",
+        "percent": "63.4331"
+    },
+    {
+        "hz": 1610,
+        "display": "1.61k Hz",
+        "percent": "63.5286"
+    },
+    {
+        "hz": 1620,
+        "display": "1.62k Hz",
+        "percent": "63.6162"
+    },
+    {
+        "hz": 1630,
+        "display": "1.63k Hz",
+        "percent": "63.7037"
+    },
+    {
+        "hz": 1640,
+        "display": "1.64k Hz",
+        "percent": "63.7913"
+    },
+    {
+        "hz": 1650,
+        "display": "1.65k Hz",
+        "percent": "63.8788"
+    },
+    {
+        "hz": 1660,
+        "display": "1.66k Hz",
+        "percent": "63.9664"
+    },
+    {
+        "hz": 1670,
+        "display": "1.67k Hz",
+        "percent": "64.054"
+    },
+    {
+        "hz": 1680,
+        "display": "1.68k Hz",
+        "percent": "64.1415"
+    },
+    {
+        "hz": 1690,
+        "display": "1.69k Hz",
+        "percent": "64.2291"
+    },
+    {
+        "hz": 1700,
+        "display": "1.7k Hz",
+        "percent": "64.3166"
+    },
+    {
+        "hz": 1710,
+        "display": "1.71k Hz",
+        "percent": "64.3962"
+    },
+    {
+        "hz": 1720,
+        "display": "1.72k Hz",
+        "percent": "64.4838"
+    },
+    {
+        "hz": 1730,
+        "display": "1.73k Hz",
+        "percent": "64.5634"
+    },
+    {
+        "hz": 1740,
+        "display": "1.74k Hz",
+        "percent": "64.651"
+    },
+    {
+        "hz": 1750,
+        "display": "1.75k Hz",
+        "percent": "64.7306"
+    },
+    {
+        "hz": 1760,
+        "display": "1.76k Hz",
+        "percent": "64.8181"
+    },
+    {
+        "hz": 1770,
+        "display": "1.77k Hz",
+        "percent": "64.8977"
+    },
+    {
+        "hz": 1780,
+        "display": "1.78k Hz",
+        "percent": "64.9773"
+    },
+    {
+        "hz": 1790,
+        "display": "1.79k Hz",
+        "percent": "65.0569"
+    },
+    {
+        "hz": 1800,
+        "display": "1.8k Hz",
+        "percent": "65.1445"
+    },
+    {
+        "hz": 1810,
+        "display": "1.81k Hz",
+        "percent": "65.2241"
+    },
+    {
+        "hz": 1820,
+        "display": "1.82k Hz",
+        "percent": "65.3037"
+    },
+    {
+        "hz": 1830,
+        "display": "1.83k Hz",
+        "percent": "65.3833"
+    },
+    {
+        "hz": 1840,
+        "display": "1.84k Hz",
+        "percent": "65.4629"
+    },
+    {
+        "hz": 1850,
+        "display": "1.85k Hz",
+        "percent": "65.5345"
+    },
+    {
+        "hz": 1860,
+        "display": "1.86k Hz",
+        "percent": "65.6141"
+    },
+    {
+        "hz": 1870,
+        "display": "1.87k Hz",
+        "percent": "65.6937"
+    },
+    {
+        "hz": 1880,
+        "display": "1.88k Hz",
+        "percent": "65.7733"
+    },
+    {
+        "hz": 1890,
+        "display": "1.89k Hz",
+        "percent": "65.845"
+    },
+    {
+        "hz": 1900,
+        "display": "1.9k Hz",
+        "percent": "65.9246"
+    },
+    {
+        "hz": 1910,
+        "display": "1.91k Hz",
+        "percent": "65.9962"
+    },
+    {
+        "hz": 1920,
+        "display": "1.92k Hz",
+        "percent": "66.0758"
+    },
+    {
+        "hz": 1930,
+        "display": "1.93k Hz",
+        "percent": "66.1474"
+    },
+    {
+        "hz": 1940,
+        "display": "1.94k Hz",
+        "percent": "66.227"
+    },
+    {
+        "hz": 1950,
+        "display": "1.95k Hz",
+        "percent": "66.2987"
+    },
+    {
+        "hz": 1960,
+        "display": "1.96k Hz",
+        "percent": "66.3703"
+    },
+    {
+        "hz": 1970,
+        "display": "1.97k Hz",
+        "percent": "66.4499"
+    },
+    {
+        "hz": 1980,
+        "display": "1.98k Hz",
+        "percent": "66.5216"
+    },
+    {
+        "hz": 1990,
+        "display": "1.99k Hz",
+        "percent": "66.5932"
+    },
+    {
+        "hz": 2000,
+        "display": "2k Hz",
+        "percent": "66.6667"
+    },
+    {
+        "hz": 2100,
+        "display": "2.1k Hz",
+        "percent": "67.3414"
+    },
+    {
+        "hz": 2200,
+        "display": "2.2k Hz",
+        "percent": "68.0578"
+    },
+    {
+        "hz": 2300,
+        "display": "2.3k Hz",
+        "percent": "68.6946"
+    },
+    {
+        "hz": 2400,
+        "display": "2.4k Hz",
+        "percent": "69.3314"
+    },
+    {
+        "hz": 2500,
+        "display": "2.5k Hz",
+        "percent": "69.8886"
+    },
+    {
+        "hz": 2600,
+        "display": "2.6k Hz",
+        "percent": "70.4458"
+    },
+    {
+        "hz": 2700,
+        "display": "2.7k Hz",
+        "percent": "71.003"
+    },
+    {
+        "hz": 2800,
+        "display": "2.8k Hz",
+        "percent": "71.5602"
+    },
+    {
+        "hz": 2900,
+        "display": "2.9k Hz",
+        "percent": "72.0378"
+    },
+    {
+        "hz": 3000,
+        "display": "3k Hz",
+        "percent": "72.5154"
+    },
+    {
+        "hz": 3100,
+        "display": "3.1k Hz",
+        "percent": "72.993"
+    },
+    {
+        "hz": 3200,
+        "display": "3.2k Hz",
+        "percent": "73.4706"
+    },
+    {
+        "hz": 3300,
+        "display": "3.3k Hz",
+        "percent": "73.9482"
+    },
+    {
+        "hz": 3400,
+        "display": "3.4k Hz",
+        "percent": "74.3462"
+    },
+    {
+        "hz": 3500,
+        "display": "3.5k Hz",
+        "percent": "74.7442"
+    },
+    {
+        "hz": 3600,
+        "display": "3.6k Hz",
+        "percent": "75.1422"
+    },
+    {
+        "hz": 3700,
+        "display": "3.7k Hz",
+        "percent": "75.5402"
+    },
+    {
+        "hz": 3800,
+        "display": "3.8k Hz",
+        "percent": "75.9382"
+    },
+    {
+        "hz": 3900,
+        "display": "3.9k Hz",
+        "percent": "76.3362"
+    },
+    {
+        "hz": 4000,
+        "display": "4k Hz",
+        "percent": "76.7342"
+    },
+    {
+        "hz": 4100,
+        "display": "4.1k Hz",
+        "percent": "77.0526"
+    },
+    {
+        "hz": 4200,
+        "display": "4.2k Hz",
+        "percent": "77.371"
+    },
+    {
+        "hz": 4300,
+        "display": "4.3k Hz",
+        "percent": "77.769"
+    },
+    {
+        "hz": 4400,
+        "display": "4.4k Hz",
+        "percent": "78.0874"
+    },
+    {
+        "hz": 4500,
+        "display": "4.5k Hz",
+        "percent": "78.4058"
+    },
+    {
+        "hz": 4600,
+        "display": "4.6k Hz",
+        "percent": "78.7242"
+    },
+    {
+        "hz": 4700,
+        "display": "4.7k Hz",
+        "percent": "79.0426"
+    },
+    {
+        "hz": 4800,
+        "display": "4.8k Hz",
+        "percent": "79.361"
+    },
+    {
+        "hz": 4900,
+        "display": "4.9k Hz",
+        "percent": "79.5998"
+    },
+    {
+        "hz": 5000,
+        "display": "5k Hz",
+        "percent": "79.9313"
+    },
+    {
+        "hz": 5100,
+        "display": "5.1k Hz",
+        "percent": "80.2366"
+    },
+    {
+        "hz": 5200,
+        "display": "5.2k Hz",
+        "percent": "80.4754"
+    },
+    {
+        "hz": 5300,
+        "display": "5.3k Hz",
+        "percent": "80.7938"
+    },
+    {
+        "hz": 5400,
+        "display": "5.4k Hz",
+        "percent": "81.0326"
+    },
+    {
+        "hz": 5500,
+        "display": "5.5k Hz",
+        "percent": "81.2714"
+    },
+    {
+        "hz": 5600,
+        "display": "5.6k Hz",
+        "percent": "81.5898"
+    },
+    {
+        "hz": 5700,
+        "display": "5.7k Hz",
+        "percent": "81.8286"
+    },
+    {
+        "hz": 5800,
+        "display": "5.8k Hz",
+        "percent": "82.0674"
+    },
+    {
+        "hz": 5900,
+        "display": "5.9k Hz",
+        "percent": "82.3062"
+    },
+    {
+        "hz": 6000,
+        "display": "6k Hz",
+        "percent": "82.545"
+    },
+    {
+        "hz": 6100,
+        "display": "6.1k Hz",
+        "percent": "82.7838"
+    },
+    {
+        "hz": 6200,
+        "display": "6.2k Hz",
+        "percent": "83.0226"
+    },
+    {
+        "hz": 6300,
+        "display": "6.3k Hz",
+        "percent": "83.2614"
+    },
+    {
+        "hz": 6400,
+        "display": "6.4k Hz",
+        "percent": "83.5002"
+    },
+    {
+        "hz": 6500,
+        "display": "6.5k Hz",
+        "percent": "83.739"
+    },
+    {
+        "hz": 6600,
+        "display": "6.6k Hz",
+        "percent": "83.9778"
+    },
+    {
+        "hz": 6700,
+        "display": "6.7k Hz",
+        "percent": "84.137"
+    },
+    {
+        "hz": 6800,
+        "display": "6.8k Hz",
+        "percent": "84.3758"
+    },
+    {
+        "hz": 6900,
+        "display": "6.9k Hz",
+        "percent": "84.6146"
+    },
+    {
+        "hz": 7000,
+        "display": "7k Hz",
+        "percent": "84.7738"
+    },
+    {
+        "hz": 7100,
+        "display": "7.1k Hz",
+        "percent": "85.0126"
+    },
+    {
+        "hz": 7200,
+        "display": "7.2k Hz",
+        "percent": "85.1718"
+    },
+    {
+        "hz": 7300,
+        "display": "7.3k Hz",
+        "percent": "85.4106"
+    },
+    {
+        "hz": 7400,
+        "display": "7.4k Hz",
+        "percent": "85.5698"
+    },
+    {
+        "hz": 7500,
+        "display": "7.5k Hz",
+        "percent": "85.8086"
+    },
+    {
+        "hz": 7600,
+        "display": "7.6k Hz",
+        "percent": "85.9678"
+    },
+    {
+        "hz": 7700,
+        "display": "7.7k Hz",
+        "percent": "86.2066"
+    },
+    {
+        "hz": 7800,
+        "display": "7.8k Hz",
+        "percent": "86.3658"
+    },
+    {
+        "hz": 7900,
+        "display": "7.9k Hz",
+        "percent": "86.525"
+    },
+    {
+        "hz": 8000,
+        "display": "8k Hz",
+        "percent": "86.7638"
+    },
+    {
+        "hz": 8100,
+        "display": "8.1k Hz",
+        "percent": "86.923"
+    },
+    {
+        "hz": 8200,
+        "display": "8.2k Hz",
+        "percent": "87.0822"
+    },
+    {
+        "hz": 8300,
+        "display": "8.3k Hz",
+        "percent": "87.2414"
+    },
+    {
+        "hz": 8400,
+        "display": "8.4k Hz",
+        "percent": "87.4802"
+    },
+    {
+        "hz": 8500,
+        "display": "8.5k Hz",
+        "percent": "87.6394"
+    },
+    {
+        "hz": 8600,
+        "display": "8.6k Hz",
+        "percent": "87.7986"
+    },
+    {
+        "hz": 8700,
+        "display": "8.7k Hz",
+        "percent": "87.9578"
+    },
+    {
+        "hz": 8800,
+        "display": "8.8k Hz",
+        "percent": "88.117"
+    },
+    {
+        "hz": 8900,
+        "display": "8.9k Hz",
+        "percent": "88.2762"
+    },
+    {
+        "hz": 9000,
+        "display": "9k Hz",
+        "percent": "88.4354"
+    },
+    {
+        "hz": 9100,
+        "display": "9.1k Hz",
+        "percent": "88.5946"
+    },
+    {
+        "hz": 9200,
+        "display": "9.2k Hz",
+        "percent": "88.7538"
+    },
+    {
+        "hz": 9300,
+        "display": "9.3k Hz",
+        "percent": "88.913"
+    },
+    {
+        "hz": 9400,
+        "display": "9.4k Hz",
+        "percent": "89.0722"
+    },
+    {
+        "hz": 9500,
+        "display": "9.5k Hz",
+        "percent": "89.2314"
+    },
+    {
+        "hz": 9600,
+        "display": "9.6k Hz",
+        "percent": "89.3906"
+    },
+    {
+        "hz": 9700,
+        "display": "9.7k Hz",
+        "percent": "89.5498"
+    },
+    {
+        "hz": 9800,
+        "display": "9.8k Hz",
+        "percent": "89.709"
+    },
+    {
+        "hz": 9900,
+        "display": "9.9k Hz",
+        "percent": "89.7886"
+    },
+    {
+        "hz": 10000,
+        "display": "10k Hz",
+        "percent": "89.9657"
+    },
+    {
+        "hz": 10100,
+        "display": "10.1k Hz",
+        "percent": "90.107"
+    },
+    {
+        "hz": 10200,
+        "display": "10.2k Hz",
+        "percent": "90.2662"
+    },
+    {
+        "hz": 10300,
+        "display": "10.3k Hz",
+        "percent": "90.4254"
+    },
+    {
+        "hz": 10400,
+        "display": "10.4k Hz",
+        "percent": "90.505"
+    },
+    {
+        "hz": 10500,
+        "display": "10.5k Hz",
+        "percent": "90.6642"
+    },
+    {
+        "hz": 10600,
+        "display": "10.6k Hz",
+        "percent": "90.8234"
+    },
+    {
+        "hz": 10700,
+        "display": "10.7k Hz",
+        "percent": "90.9826"
+    },
+    {
+        "hz": 10800,
+        "display": "10.8k Hz",
+        "percent": "91.0622"
+    },
+    {
+        "hz": 10900,
+        "display": "10.9k Hz",
+        "percent": "91.2214"
+    },
+    {
+        "hz": 11000,
+        "display": "11k Hz",
+        "percent": "91.3806"
+    },
+    {
+        "hz": 11100,
+        "display": "11.1k Hz",
+        "percent": "91.4602"
+    },
+    {
+        "hz": 11200,
+        "display": "11.2k Hz",
+        "percent": "91.6194"
+    },
+    {
+        "hz": 11300,
+        "display": "11.3k Hz",
+        "percent": "91.699"
+    },
+    {
+        "hz": 11400,
+        "display": "11.4k Hz",
+        "percent": "91.8582"
+    },
+    {
+        "hz": 11500,
+        "display": "11.5k Hz",
+        "percent": "92.0174"
+    },
+    {
+        "hz": 11600,
+        "display": "11.6k Hz",
+        "percent": "92.097"
+    },
+    {
+        "hz": 11700,
+        "display": "11.7k Hz",
+        "percent": "92.2562"
+    },
+    {
+        "hz": 11800,
+        "display": "11.8k Hz",
+        "percent": "92.3358"
+    },
+    {
+        "hz": 11900,
+        "display": "11.9k Hz",
+        "percent": "92.495"
+    },
+    {
+        "hz": 12000,
+        "display": "12k Hz",
+        "percent": "92.5746"
+    },
+    {
+        "hz": 12100,
+        "display": "12.1k Hz",
+        "percent": "92.7338"
+    },
+    {
+        "hz": 12200,
+        "display": "12.2k Hz",
+        "percent": "92.8134"
+    },
+    {
+        "hz": 12300,
+        "display": "12.3k Hz",
+        "percent": "92.9726"
+    },
+    {
+        "hz": 12400,
+        "display": "12.4k Hz",
+        "percent": "93.0522"
+    },
+    {
+        "hz": 12500,
+        "display": "12.5k Hz",
+        "percent": "93.2114"
+    },
+    {
+        "hz": 12600,
+        "display": "12.6k Hz",
+        "percent": "93.291"
+    },
+    {
+        "hz": 12700,
+        "display": "12.7k Hz",
+        "percent": "93.4502"
+    },
+    {
+        "hz": 12800,
+        "display": "12.8k Hz",
+        "percent": "93.5298"
+    },
+    {
+        "hz": 12900,
+        "display": "12.9k Hz",
+        "percent": "93.689"
+    },
+    {
+        "hz": 13000,
+        "display": "13k Hz",
+        "percent": "93.7686"
+    },
+    {
+        "hz": 13100,
+        "display": "13.1k Hz",
+        "percent": "93.8482"
+    },
+    {
+        "hz": 13200,
+        "display": "13.2k Hz",
+        "percent": "94.0074"
+    },
+    {
+        "hz": 13300,
+        "display": "13.3k Hz",
+        "percent": "94.087"
+    },
+    {
+        "hz": 13400,
+        "display": "13.4k Hz",
+        "percent": "94.1666"
+    },
+    {
+        "hz": 13500,
+        "display": "13.5k Hz",
+        "percent": "94.3258"
+    },
+    {
+        "hz": 13600,
+        "display": "13.6k Hz",
+        "percent": "94.4054"
+    },
+    {
+        "hz": 13700,
+        "display": "13.7k Hz",
+        "percent": "94.485"
+    },
+    {
+        "hz": 13800,
+        "display": "13.8k Hz",
+        "percent": "94.6442"
+    },
+    {
+        "hz": 13900,
+        "display": "13.9k Hz",
+        "percent": "94.7238"
+    },
+    {
+        "hz": 14000,
+        "display": "14k Hz",
+        "percent": "94.8034"
+    },
+    {
+        "hz": 14100,
+        "display": "14.1k Hz",
+        "percent": "94.9626"
+    },
+    {
+        "hz": 14200,
+        "display": "14.2k Hz",
+        "percent": "95.0422"
+    },
+    {
+        "hz": 14300,
+        "display": "14.3k Hz",
+        "percent": "95.1218"
+    },
+    {
+        "hz": 14400,
+        "display": "14.4k Hz",
+        "percent": "95.281"
+    },
+    {
+        "hz": 14500,
+        "display": "14.5k Hz",
+        "percent": "95.3606"
+    },
+    {
+        "hz": 14600,
+        "display": "14.6k Hz",
+        "percent": "95.4402"
+    },
+    {
+        "hz": 14700,
+        "display": "14.7k Hz",
+        "percent": "95.5198"
+    },
+    {
+        "hz": 14800,
+        "display": "14.8k Hz",
+        "percent": "95.679"
+    },
+    {
+        "hz": 14900,
+        "display": "14.9k Hz",
+        "percent": "95.7586"
+    },
+    {
+        "hz": 15000,
+        "display": "15k Hz",
+        "percent": "95.8382"
+    },
+    {
+        "hz": 15100,
+        "display": "15.1k Hz",
+        "percent": "95.9178"
+    },
+    {
+        "hz": 15200,
+        "display": "15.2k Hz",
+        "percent": "95.9974"
+    },
+    {
+        "hz": 15300,
+        "display": "15.3k Hz",
+        "percent": "96.1566"
+    },
+    {
+        "hz": 15400,
+        "display": "15.4k Hz",
+        "percent": "96.2362"
+    },
+    {
+        "hz": 15500,
+        "display": "15.5k Hz",
+        "percent": "96.3158"
+    },
+    {
+        "hz": 15600,
+        "display": "15.6k Hz",
+        "percent": "96.3954"
+    },
+    {
+        "hz": 15700,
+        "display": "15.7k Hz",
+        "percent": "96.475"
+    },
+    {
+        "hz": 15800,
+        "display": "15.8k Hz",
+        "percent": "96.5546"
+    },
+    {
+        "hz": 15900,
+        "display": "15.9k Hz",
+        "percent": "96.7138"
+    },
+    {
+        "hz": 16000,
+        "display": "16k Hz",
+        "percent": "96.7934"
+    },
+    {
+        "hz": 16100,
+        "display": "16.1k Hz",
+        "percent": "96.873"
+    },
+    {
+        "hz": 16200,
+        "display": "16.2k Hz",
+        "percent": "96.9526"
+    },
+    {
+        "hz": 16300,
+        "display": "16.3k Hz",
+        "percent": "97.0322"
+    },
+    {
+        "hz": 16400,
+        "display": "16.4k Hz",
+        "percent": "97.1118"
+    },
+    {
+        "hz": 16500,
+        "display": "16.5k Hz",
+        "percent": "97.1914"
+    },
+    {
+        "hz": 16600,
+        "display": "16.6k Hz",
+        "percent": "97.271"
+    },
+    {
+        "hz": 16700,
+        "display": "16.7k Hz",
+        "percent": "97.3506"
+    },
+    {
+        "hz": 16800,
+        "display": "16.8k Hz",
+        "percent": "97.5098"
+    },
+    {
+        "hz": 16900,
+        "display": "16.9k Hz",
+        "percent": "97.5894"
+    },
+    {
+        "hz": 17000,
+        "display": "17k Hz",
+        "percent": "97.669"
+    },
+    {
+        "hz": 17100,
+        "display": "17.1k Hz",
+        "percent": "97.7486"
+    },
+    {
+        "hz": 17200,
+        "display": "17.2k Hz",
+        "percent": "97.8282"
+    },
+    {
+        "hz": 17300,
+        "display": "17.3k Hz",
+        "percent": "97.9078"
+    },
+    {
+        "hz": 17400,
+        "display": "17.4k Hz",
+        "percent": "97.9874"
+    },
+    {
+        "hz": 17500,
+        "display": "17.5k Hz",
+        "percent": "98.067"
+    },
+    {
+        "hz": 17600,
+        "display": "17.6k Hz",
+        "percent": "98.1466"
+    },
+    {
+        "hz": 17700,
+        "display": "17.7k Hz",
+        "percent": "98.2262"
+    },
+    {
+        "hz": 17800,
+        "display": "17.8k Hz",
+        "percent": "98.3058"
+    },
+    {
+        "hz": 17900,
+        "display": "17.9k Hz",
+        "percent": "98.3854"
+    },
+    {
+        "hz": 18000,
+        "display": "18k Hz",
+        "percent": "98.465"
+    },
+    {
+        "hz": 18100,
+        "display": "18.1k Hz",
+        "percent": "98.5446"
+    },
+    {
+        "hz": 18200,
+        "display": "18.2k Hz",
+        "percent": "98.6242"
+    },
+    {
+        "hz": 18300,
+        "display": "18.3k Hz",
+        "percent": "98.7038"
+    },
+    {
+        "hz": 18400,
+        "display": "18.4k Hz",
+        "percent": "98.7834"
+    },
+    {
+        "hz": 18500,
+        "display": "18.5k Hz",
+        "percent": "98.863"
+    },
+    {
+        "hz": 18600,
+        "display": "18.6k Hz",
+        "percent": "98.9426"
+    },
+    {
+        "hz": 18700,
+        "display": "18.7k Hz",
+        "percent": "99.0222"
+    },
+    {
+        "hz": 18800,
+        "display": "18.8k Hz",
+        "percent": "99.1018"
+    },
+    {
+        "hz": 18900,
+        "display": "18.9k Hz",
+        "percent": "99.1814"
+    },
+    {
+        "hz": 19000,
+        "display": "19k Hz",
+        "percent": "99.261"
+    },
+    {
+        "hz": 19100,
+        "display": "19.1k Hz",
+        "percent": "99.3406"
+    },
+    {
+        "hz": 19200,
+        "display": "19.2k Hz",
+        "percent": "99.4202"
+    },
+    {
+        "hz": 19300,
+        "display": "19.3k Hz",
+        "percent": "99.4998"
+    },
+    {
+        "hz": 19400,
+        "display": "19.4k Hz",
+        "percent": "99.5794"
+    },
+    {
+        "hz": 19500,
+        "display": "19.5k Hz",
+        "percent": "99.659"
+    },
+    {
+        "hz": 19600,
+        "display": "19.6k Hz",
+        "percent": "99.7386"
+    },
+    {
+        "hz": 19700,
+        "display": "19.7k Hz",
+        "percent": "99.8182"
+    },
+    {
+        "hz": 19800,
+        "display": "19.8k Hz",
+        "percent": "99.8182"
+    },
+    {
+        "hz": 19900,
+        "display": "19.9k Hz",
+        "percent": "99.8978"
+    },
+    {
+        "hz": 20000,
+        "display": "20k Hz",
+        "percent": "100"
+    }
+]
